@@ -42,7 +42,7 @@
    | Kubernetes Service  | Serviço Gerenciado de K8s | <a href="https://learn.microsoft.com/en-us/azure/aks/what-is-aks"> Kubernetes </a> |      
    | Quantum  | Serviço de Computação Quântica | <a href="https://learn.microsoft.com/en-us/azure/quantum/overview-azure-quantum"> Quantum </a> |      
    | Service Fabric  | Plataforma de Sistemas Distribuídos | <a href="https://learn.microsoft.com/en-us/azure/service-fabric/service-fabric-overview"> Service Fabric </a> |      
-
+   | Virtual Desktop | Serviço de Virtualização de Desktop e App. | <a href="https://learn.microsoft.com/en-us/azure/virtual-desktop/overview"> Virtual Desktop </a> |      
 
 <br>
 
