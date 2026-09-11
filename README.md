@@ -45,6 +45,7 @@
    | Virtual Desktop | Serviço de Virtualização de Desktop e App. | <a href="https://learn.microsoft.com/en-us/azure/virtual-desktop/overview"> Virtual Desktop </a> |   
    | VMware Solution | Nuvens Privadas que possuem clusters vSphere. | <a href="https://learn.microsoft.com/en-us/azure/azure-vmware/introduction"> VMware Solution </a> |
    | Batch  | Execução de serviços batch paralelizados em alta escala, e processamento de alta performance. | <a href="https://learn.microsoft.com/en-us/azure/batch/batch-technical-overview"> Batch </a> |   
+   | SQL Server on VMs | Permite usar versão completa do SQL Server sem hardware on-prem. | <a href="https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview?view=azuresql&toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json"> SQL Server VM </a> |
 
 <br>
 
