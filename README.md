@@ -60,6 +60,7 @@
    | Event Hubs | Ingestão de Dados em grande escala. Recebe e processa milhões de eventos por segundo. | <a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about"> Event Hubs </a> |
    | HDInsight | Plataforma de cluster gerenciável para uso de Frameworks de Dados (Apache Spark, Hive, LLAP, Kafka, Hadoop) | <a href="https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview"> HDInsight </a> |
    | Fabric | Plataforma de Análise de Dados All in One | <a href="https://learn.microsoft.com/en-us/fabric/fundamentals/microsoft-fabric-overview"> Fabric </a> |
+   | Purview | Governança de Dados e Proteção. | <a href="https://learn.microsoft.com/en-us/purview/purview"> Purview </a> |
 
 <br>
 
