@@ -58,6 +58,7 @@
    | Synapse Analytics | Plataforma unificada de Data Warehousing e Big Data | <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is"> Synapse Analytics </a> | 
    | Data Lake Analytics | Descontinuado | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/data-lake-analytics/data-lake-analytics-overview"> Data Lake Analytics </a> |
    | Event Hubs | Ingestão de Dados em grande escala. Recebe e processa milhões de eventos por segundo. | <a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about"> Event Hubs </a> |
+   | HDInsight | Plataforma de cluster gerenciável para uso de Frameworks de Dados (Apache Spark, Hive, LLAP, Kafka, Hadoop) | <a href="https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview"> HDInsight </a> |
 
 <br>
 
