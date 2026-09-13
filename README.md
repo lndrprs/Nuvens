@@ -53,6 +53,7 @@
    | Data Factory  | Serviço Cloud de ETL - Extract Transform Load / ELT - Extract Load Transform.  | <a href="https://learn.microsoft.com/en-us/azure/data-factory/introduction"> Data Factory </a> |
    | Data Lake Storage  | Repositório para armazenamento de dados estruturados e não estruturados.   | <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction"> Data Lake Storage </a> |
    | Data Share | Compartilhamento de Dados / Arquivos com múltiplos clientes e parceiros. | <a href="https://learn.microsoft.com/en-us/azure/data-share/overview"> Data Share </a> | 
+   | Databricks | Plataforma em Nuvem, escalável, de Análise de Dados | <a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/"> Databricks </a> | 
 
 
 <br>
