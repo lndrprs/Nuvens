@@ -54,7 +54,8 @@
    | Data Lake Storage  | Repositório para armazenamento de dados estruturados e não estruturados.   | <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction"> Data Lake Storage </a> |
    | Data Share | Compartilhamento de Dados / Arquivos com múltiplos clientes e parceiros. | <a href="https://learn.microsoft.com/en-us/azure/data-share/overview"> Data Share </a> | 
    | Databricks | Plataforma em Nuvem, escalável, de Análise de Dados | <a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/"> Databricks </a> | 
-
+   | Stream Analytics | Processamento de Dados em Tempo Real | <a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction"> Stream Analytics </a> | 
+   | Synapse Analytics | Plataforma unificada de Data Warehousing e Big Data | < href="https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is" Synapse Analytics </a> | 
 
 <br>
 
