@@ -50,6 +50,10 @@
    | Analysis Services | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |  <a href="https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services/analysis-services-overview?view=sql-analysis-services-2025"> Analysis Services </a> |
    | Chaos Studio  | Teste de Resiliência do Azure | <a href="https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-workspaces-overview"> Chaos Studio </a> |   
    | Data Explorer  | Plataforma Analytics de Big Data  | <a href="https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview"> Data Explorer </a> |   
+   | Data Factory  | Serviço Cloud de ETL - Extract Transform Load / ELT - Extract Load Transform.  | <a href="https://learn.microsoft.com/en-us/azure/data-factory/introduction"> Data Factory </a> |
+   | Data Lake Storage  | Repositório para armazenamento de dados estruturados e não estruturados.   | <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction"> Data Lake Storage </a> |
+   | Data Share | Compartilhamento de Dados / Arquivos com múltiplos clientes e parceiros. | <a href="https://learn.microsoft.com/en-us/azure/data-share/overview"> Data Share </a> | 
+
 
 <br>
 
