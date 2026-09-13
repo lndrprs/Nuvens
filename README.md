@@ -65,6 +65,7 @@
    | App Configuration | Gerenciamento Central de Aplicações | <a href="https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview"> App Configuration </a> |
    | Container Apps | Plataforma Serverless para Execução de Aplicações Contênerizadas | <a href="https://learn.microsoft.com/en-us/azure/container-apps/overview"> Container Apps </a> | 
    | Container Registry | Armazenamento e Gerenciamento de Imagens de Contêineres. | <a href="https://learn.microsoft.com/en-us/azure/container-registry/container-registry-intro"> Container Registry </a> | 
+   | Container Storage | Gerenciamento de Volume para Contêineres. | <a href="https://learn.microsoft.com/en-us/azure/storage/container-storage/container-storage-introduction"> COntainer Storage  </a> |  
 
 <br>
 
