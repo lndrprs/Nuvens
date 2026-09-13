@@ -49,6 +49,7 @@
    | Static Web Apps  | Serviço que provisiona stack inteira de Aplicações Web através de um repositório de código. | <a href="https://learn.microsoft.com/en-us/azure/static-web-apps/overview"> Web Apps </a> |   
    | Analysis Services | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |  <a href="https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services/analysis-services-overview?view=sql-analysis-services-2025"> Analysis Services </a> |
    | Chaos Studio  | Teste de Resiliência do Azure | <a href="https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-workspaces-overview"> Chaos Studio </a> |   
+   | Data Explorer  | Plataforma Analytics de Big Data  | <a href="https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview"> Data Explorer </a> |   
 
 <br>
 
