@@ -62,6 +62,8 @@
    | Fabric | Plataforma de Análise de Dados All in One | <a href="https://learn.microsoft.com/en-us/fabric/fundamentals/microsoft-fabric-overview"> Fabric </a> |
    | Purview | Governança de Dados e Proteção. | <a href="https://learn.microsoft.com/en-us/purview/purview"> Purview </a> |
    | Power BI | Transformação de Dados em Relatórios e Dasbhboards | <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview"> Power BI </a> |
+   | App Configuration | Gerenciamento Central de Aplicações | <a href="https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview"> App Configuration </a> |
+   | Container Apps | Plataforma Serverless para Execução de Aplicações Conteinerizadas | <a href="https://learn.microsoft.com/en-us/azure/container-apps/overview"> Container Apps </a> | 
 
 <br>
 
