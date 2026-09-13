@@ -48,6 +48,7 @@
    | SQL Server on VMs | Permite usar versão completa do SQL Server sem hardware on-prem. | <a href="https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview?view=azuresql&toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json"> SQL Server VM </a> |
    | Static Web Apps  | Serviço que provisiona stack inteira de Aplicações Web através de um repositório de código. | <a href="https://learn.microsoft.com/en-us/azure/static-web-apps/overview"> Web Apps </a> |   
    | Analysis Services | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |  <a href="https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services/analysis-services-overview?view=sql-analysis-services-2025"> Analysis Services </a> |
+   | Chaos Studio  | Teste de Resiliência do Azure | <a href="https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-workspaces-overview"> Chaos Studio </a> |   
 
 <br>
 
