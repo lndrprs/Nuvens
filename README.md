@@ -63,7 +63,8 @@
    | Purview | Governança de Dados e Proteção. | <a href="https://learn.microsoft.com/en-us/purview/purview"> Purview </a> |
    | Power BI | Transformação de Dados em Relatórios e Dasbhboards | <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview"> Power BI </a> |
    | App Configuration | Gerenciamento Central de Aplicações | <a href="https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview"> App Configuration </a> |
-   | Container Apps | Plataforma Serverless para Execução de Aplicações Conteinerizadas | <a href="https://learn.microsoft.com/en-us/azure/container-apps/overview"> Container Apps </a> | 
+   | Container Apps | Plataforma Serverless para Execução de Aplicações Contênerizadas | <a href="https://learn.microsoft.com/en-us/azure/container-apps/overview"> Container Apps </a> | 
+   | Container Registry | Armazenamento e Gerenciamento de Imagens de Contêineres. | <a href="https://learn.microsoft.com/en-us/azure/container-registry/container-registry-intro"> Container Registry </a> | 
 
 <br>
 
