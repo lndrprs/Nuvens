@@ -70,7 +70,11 @@
    | Cache for Redis | Descontinuado (Azure Managed Redis) | <a href="https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview"> Cache for Redis </a> |
    | Confidential Ledger | Serviço de BD gerenciado pela MS, armazena registros de dados de forma imutável e à prova de adulteração. | <a href="https://learn.microsoft.com/en-us/azure/confidential-ledger/overview"> Confidential Ledger </a> |
    | Cosmos DB | BD NoSQL gerenciado e multimodelo da MS, projeto para baixa latência global, alta disponibilidade e escalabilidade elástica. | <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/overview"> Cosmos DB </a> |
+   | Database for Maria DB | Descontinuado (Azure Database for MySQL) | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/mariadb/overview"> Maria DB </a> |
+   | Database for MySQL | BD Relacional baseado no MySQL Community Edition. | <a href="https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview"> Database for MySQL </a> |
    
+
+
 
 
 <br>
