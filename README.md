@@ -67,6 +67,11 @@
    | Container Registry | Armazenamento e Gerenciamento de Imagens de Contêineres. | <a href="https://learn.microsoft.com/en-us/azure/container-registry/container-registry-intro"> Container Registry </a> | 
    | Container Storage | Gerenciamento de Volume para Contêineres. | <a href="https://learn.microsoft.com/en-us/azure/storage/container-storage/container-storage-introduction"> Container Storage  </a> |  
    | Azure Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. | <a href="https://learn.microsoft.com/en-us/azure/storage/container-storage/container-storage-introduction"> ARO </a> |
+   | Cache for Redis | Descontinuado (Azure Managed Redis) | <a href="https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview"> Cache for Redis </a> |
+   | Confidential Ledger | Serviço de BD gerenciado pela MS, armazena registros de dados de forma imutável e à prova de adulteração. | <a href="https://learn.microsoft.com/en-us/azure/confidential-ledger/overview"> Confidential Ledger </a> |
+   | Cosmos DB | BD NoSQL gerenciado e multimodelo da MS, projeto para baixa latência global, alta disponibilidade e escalabilidade elástica. | <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/overview"> Cosmos DB </a> |
+   
+
 
 <br>
 
