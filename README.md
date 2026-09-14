@@ -78,6 +78,7 @@
    | Managed Instance for Apache Cassandra | Serviço totalmente gerenciado para Clusters Apache Cassandra. | <a href="https://learn.microsoft.com/en-us/azure/managed-instance-apache-cassandra/introduction"> Apache Cassandra </a> |
    | Managed Redis | Armazenamento de dados em Memória. | <a href="https://learn.microsoft.com/en-us/azure/redis/overview"> Managed Redis </a> | 
    | SQL Database | Banco de Dados PaaS | <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql"> SQL Database </a> | 
+   | Table Storage | Armazenamento de dados NoSQL estruturados na Nuvem. | <a href="https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-overview"> </a> |
    
 
 
