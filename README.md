@@ -76,7 +76,10 @@
    | Database Migration Service (DMS) | Migração de Bancos On-Premises ao Azure | <a href="https://learn.microsoft.com/en-us/azure/dms/dms-overview"> Database Migration Service </a> |
    | DocumentDB | Banco de Dados compatível com MongoDB | <a href="https://learn.microsoft.com/en-us/azure/documentdb/overview"> DocumentDB </a> |
    | Managed Instance for Apache Cassandra | Serviço totalmente gerenciado para Clusters Apache Cassandra. | <a href="https://learn.microsoft.com/en-us/azure/managed-instance-apache-cassandra/introduction"> Apache Cassandra </a> |
+   | Managed Redis | Armazenamento de dados em Memória. | <a href="https://learn.microsoft.com/en-us/azure/redis/overview"> Managed Redis </a> | 
+   | SQL Database | Banco de Dados PaaS | <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql"> SQL Database </a> | 
    
+
 
 
 
