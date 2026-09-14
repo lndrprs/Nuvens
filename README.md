@@ -81,6 +81,13 @@
    | Table Storage | Armazenamento de dados NoSQL estruturados na Nuvem. | <a href="https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-overview"> Table Storage </a> |
    | Boards | Serviço Web para times planejaram, acompanharem e discutirem ciclo de vida de desenvolvimento. | <a href="https://learn.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops"> Azure Boards </a> |
    | DevOps | Plataforma em Nuvem que fornece ferramentas integradas para desenvolvimento de software. | <a href="https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops&toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json"> DevOps </a> | 
+   | DevTest Labs | Provisionamento rápido e gerenciamento de VMs para Desenvolvimento / Teste. | <a href="https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview"> DevTest Labs </a> | 
+   | Azure Pipelines | Parte do Azure DevOps, combinando CI, CT e CD. | <a href="https://learn.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops"> Pipelines </a> | 
+   | Microsoft Dev Box | Descontinuado (Microsoft 365) | <a href="https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box"> Dev Bos </a> | 
+   | Playwright Workspaces | Plataforma para teste de aplicações | <a href="https://learn.microsoft.com/en-us/azure/app-testing/playwright-workspaces/overview-what-is-microsoft-playwright-workspaces"> Playwright </a> |
+   | App Testing | Testes de performance e funcionais em alta escala.  | <a href="https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing"> App Testing </a> |
+
+
 
 
 
