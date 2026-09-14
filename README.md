@@ -88,7 +88,7 @@
    | App Testing | Testes de performance e funcionais em alta escala.  | <a href="https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing"> App Testing </a> |
    | Azure Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  | <a href="https://learn.microsoft.com/en-us/azure/devops/artifacts/start-using-azure-artifacts?view=azure-devops"> Artifacts </a> |
    | Deployment Environments | Descontinuado | <a href="https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments"> Deployment Environments </a> | 
-
+   | Azure Managed Grafana | Serviço operado e suportado pela MS, integração com ecossistema Azure. | <a href="https://learn.microsoft.com/en-us/azure/managed-grafana/overview"> Managed Grafana </a> |
 
 
 
