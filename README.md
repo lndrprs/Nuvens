@@ -86,6 +86,9 @@
    | Microsoft Dev Box | Descontinuado (Microsoft 365) | <a href="https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box"> Dev Bos </a> | 
    | Playwright Workspaces | Plataforma para teste de aplicações | <a href="https://learn.microsoft.com/en-us/azure/app-testing/playwright-workspaces/overview-what-is-microsoft-playwright-workspaces"> Playwright </a> |
    | App Testing | Testes de performance e funcionais em alta escala.  | <a href="https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing"> App Testing </a> |
+   | Azure Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  | <a href="https://learn.microsoft.com/en-us/azure/devops/artifacts/start-using-azure-artifacts?view=azure-devops"> Artifacts </a> |
+   | Deployment Environments | Descontinuado | <a href="https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments"> Deployment Environments </a> | 
+
 
 
 
