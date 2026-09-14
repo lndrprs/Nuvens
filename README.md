@@ -72,7 +72,9 @@
    | Cosmos DB | BD NoSQL gerenciado e multimodelo da MS, projeto para baixa latência global, alta disponibilidade e escalabilidade elástica. | <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/overview"> Cosmos DB </a> |
    | Database for Maria DB | Descontinuado (Azure Database for MySQL) | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/mariadb/overview"> Maria DB </a> |
    | Database for MySQL | BD Relacional baseado no MySQL Community Edition. | <a href="https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview"> Database for MySQL </a> |
-   
+   | Database for Postgre | BD Relacional que usa versões de Community | <a href="https://learn.microsoft.com/en-us/azure/postgresql/overview"> Database for Postgre </a> |
+   | Database Migration Service (DMS) | Migração de Bancos On-Premises ao Azure | <a href="https://learn.microsoft.com/en-us/azure/dms/dms-overview"> Database Migration Service </a> |
+   | DocumentDB | Banco de Dados compatível com MongoDB | <a href="https://learn.microsoft.com/en-us/azure/documentdb/overview"> DocumentDB </a> |
 
 
 
