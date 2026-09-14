@@ -79,7 +79,9 @@
    | Managed Redis | Armazenamento de dados em Memória. | <a href="https://learn.microsoft.com/en-us/azure/redis/overview"> Managed Redis </a> | 
    | SQL Database | Banco de Dados PaaS | <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql"> SQL Database </a> | 
    | Table Storage | Armazenamento de dados NoSQL estruturados na Nuvem. | <a href="https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-overview"> </a> |
-   
+   | Boards | Serviço Web para times planejaram, acompanharem e discutirem ciclo de vida de desenvolvimento. | <a href="https://learn.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops"> Azure Boards </a> |
+   | DevOps | Plataforma em Nuvem que fornece ferramentas integradas para desenvolvimento de software. | <a href="https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops&toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json"> DevOps </a> | 
+
 
 
 
