@@ -100,7 +100,9 @@
    | Operator Nexus | Plataforma para operadores de Telecomunicação. | <a href="https://learn.microsoft.com/en-us/azure/operator-nexus/overview"> Operator Nexus </a> | 
    | Operator Service Manager | Orquestração em nuvem para automatizar ciclo de vida de worklods móveis no Operator Nexus. | <a href="https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview"> Operator Service Manager </a> | 
    | Stack Edge | Dispositivo de Hardware (Appliance), enviado da MS para instalações do cliente, levando processamento, armazenamento, e IA para a boarda da rede. | <a href="https://learn.microsoft.com/en-us/azure/databox-online/"> Stack Edge </a> |
-   | 
+   | Stack Hub | Extensão do Azure que providencia execução de Apps em ambientes On-Premises e entrega serviços Azure no seu Datacenter. | <a href="https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-overview?view=azs-2604"> Stack Hub </a> |
+   | Defender for Cloud | Solução unificada que combina múltiplas ferramentas de segurança para proteção das aplicações no seu ciclo de vida. | <a href="https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction"> Defender for Cloud </a> | 
+   | Sentinel | Solução SIEM Cloud-Native, combinando AI, automação e inteligência de ameaça para suportar detecção, investigação e resposta às ameaças. | <a href="https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=defender-portal"> Sentinel </a> | 
 
 
 
