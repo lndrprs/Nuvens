@@ -89,6 +89,7 @@
    | Azure Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  | <a href="https://learn.microsoft.com/en-us/azure/devops/artifacts/start-using-azure-artifacts?view=azure-devops"> Artifacts </a> |
    | Deployment Environments | Descontinuado | <a href="https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments"> Deployment Environments </a> | 
    | Azure Managed Grafana | Serviço operado e suportado pela MS, integração com ecossistema Azure. | <a href="https://learn.microsoft.com/en-us/azure/managed-grafana/overview"> Managed Grafana </a> |
+   | Azure Monitor | Serviço de Observabilidade Unificado para coletar, analisar e agir sobre telemetria. | <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview"> Monitor </a> |
 
 
 
