@@ -90,6 +90,14 @@
    | Deployment Environments | Descontinuado | <a href="https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments"> Deployment Environments </a> | 
    | Azure Managed Grafana | Serviço operado e suportado pela MS, integração com ecossistema Azure. | <a href="https://learn.microsoft.com/en-us/azure/managed-grafana/overview"> Managed Grafana </a> |
    | Azure Monitor | Serviço de Observabilidade Unificado para coletar, analisar e agir sobre telemetria. | <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview"> Monitor </a> |
+   | Azure Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. | <a href="https://learn.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops"> Repos </a> |
+   | Test Plans | Ferramentas para qualidade e colaboração durante processo de desenvolvimento. | <a href="https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops"> Test Plans </a> |
+   | Azure Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. | <a href="https://learn.microsoft.com/en-us/azure/azure-arc/overview"> Arc </a> |
+   | ExpressRoute | Conectividade entre redes On-Premises e Microsoft Cloud, sobre conexão privaa. | <a href="https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction"> ExpressRoute </a> | 
+   | IoT Edge | Runtime para provisionamento, execução e monitoramento de aplicações Linux contêinerizadas. | <a href="https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge"> IoT Edge </a> |
+   | AKS Edge Essentials | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples . | <a href="https://learn.microsoft.com/en-us/azure/aks-hybrid-edge/edge-essentials/aks-edge-overview"> AKS Edge </a> | 
+   
+
 
 
 
