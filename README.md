@@ -116,7 +116,11 @@
    | Logic Apps | Plataforma de criação de Workflows e integração de serviços, sistemas, apps e dados. | <a href="https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview"> Logic Apps </a> | 
    | Data Manager for Energy | Plataforma de dados para a indústria da energia. | <a href="https://learn.microsoft.com/en-us/azure/energy-data-services/overview-microsoft-energy-data-services"> Data Manager for Energy </a> |
    | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. | <a href="https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview"> Service Bus </a> | 
-   
+   | Digital Twins | Plataforma que permite a criação de modelos digitais de ambientes (fazendas, cidades, construções, etc.) | <a href="https://learn.microsoft.com/en-us/azure/digital-twins/overview"> Digital Twins </a> |
+   | Azure IoT | Serviços para conectar, gerenciar e derivar inteligência de dispositivos IoT e equipamentos industriais. | <a href="https://learn.microsoft.com/en-us/azure/iot/iot-introduction"> Azure IoT </a> | 
+   | Azure IoT Central | 
+
+
 
  
 
