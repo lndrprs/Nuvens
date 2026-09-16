@@ -107,6 +107,8 @@
    | Entra Domain Services | Gerenciamento de serviços de domínio, como Join, Group Policy, LDAP, autenticação Kerberos / NTLM. Sem precisar de DCs | <a href="https://learn.microsoft.com/en-us/entra/identity/domain-services/overview"> Entra Domain Services </a> | 
    | Entra External ID | Gerenciamento de Identidades Terceiras (B2B). | <a href="https://learn.microsoft.com/en-us/entra/external-id/external-identities-overview"> Entra External ID </a> | 
    | Microsoft Entra | Produtos de Identidade e Acesso | <a href="https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra"> Microsoft Entra </a> | 
+   | API Management | Plataforma para Ciclo de Vida de API. | <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts"> API Management </a> |
+   | API for FHIR | Descontinuado (Azure Health Data Services FHIR service) | <a href="https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview"> API for FHIR </a> | 
    
  
 
