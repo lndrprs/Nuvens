@@ -122,7 +122,11 @@
    | Azure IoT Hub | Comunicação em escala entre aplicação IoT e os dispositivos conectados. | <a href="https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub"> IoT Hub </a> |
    | Azure IoT Operations | Plano de Dados para Edge. Serviços de dados escaláveis e modulares em cluster Azure Erc-enabled Kubernetes. | <a href="https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations"> IoT Operations </a> |
    | Machine Learning | Gerenciamento do projeto de ciclo de vida de ML. | <a href="https://learn.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning?view=azureml-api-2"> Machine Learning </a> |
-   | Azure Maps | Serviços Geoespaciais que usam dados geográficos, e fornece contexto geográficos para aplicações web e móveis. | <a href="https://learn.microsoft.com/en-us/azure/azure-maps/about-azure-maps"> Azure Maps </a> | 
+   | Azure Maps | Serviços Geoespaciais que usam dados geográficos, e fornece contexto geográficos para aplicações web e móveis. | <a href="https://learn.microsoft.com/en-us/azure/azure-maps/about-azure-maps"> Azure Maps </a> |
+   | Azure Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. | <a href="https://learn.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere?view=azure-sphere-integrated"> Sphere </a> | 
+   | Microsoft Defender for IoT | Solução de segurança para dispositivos IoT. | <a href="https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/overview"> Defender for IoT </a> | 
+   |
+
 
 
 
