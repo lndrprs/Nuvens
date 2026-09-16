@@ -109,7 +109,15 @@
    | Microsoft Entra | Produtos de Identidade e Acesso | <a href="https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra"> Microsoft Entra </a> | 
    | API Management | Plataforma para Ciclo de Vida de API. | <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts"> API Management </a> |
    | API for FHIR | Descontinuado (Azure Health Data Services FHIR service) | <a href="https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview"> API for FHIR </a> | 
+   | Data Manager for Agriculture | Descontinuado | <a href="https://learn.microsoft.com/en-us/azure/data-manager-for-agri/overview-azure-data-manager-for-agriculture"> Data Manager for Agriculture </a> |
+   | Health Data Services | Solução que ajuda a coletar, armazenar e analisar dados de saúde de diferentes formatos e origens. | <a href="https://learn.microsoft.com/en-us/azure/healthcare-apis/healthcare-apis-overview"> Health Data Services </a> |
+   | Web PubSub | Serviço para desenvolvimento de aplicações e que entrega atualizações em tempo real. | <a href="https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview"> Web PubSub </a> |
+   | Event Grid | Serviço de Publicação / Subscrição para distribuilção de mensagens. | <a href="https://learn.microsoft.com/en-us/azure/event-grid/overview"> Event Grid </a> | 
+   | Logic Apps | Plataforma de criação de Workflows e integração de serviços, sistemas, apps e dados. | <a href="https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview"> Logic Apps </a> | 
+   | Data Manager for Energy | Plataforma de dados para a indústria da energia. | <a href="https://learn.microsoft.com/en-us/azure/energy-data-services/overview-microsoft-energy-data-services"> Data Manager for Energy </a> |
+   | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. | <a href="https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview"> Service Bus </a> | 
    
+
  
 
 
