@@ -103,7 +103,12 @@
    | Stack Hub | Extensão do Azure que providencia execução de Apps em ambientes On-Premises e entrega serviços Azure no seu Datacenter. | <a href="https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-overview?view=azs-2604"> Stack Hub </a> |
    | Defender for Cloud | Solução unificada que combina múltiplas ferramentas de segurança para proteção das aplicações no seu ciclo de vida. | <a href="https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction"> Defender for Cloud </a> | 
    | Sentinel | Solução SIEM Cloud-Native, combinando AI, automação e inteligência de ameaça para suportar detecção, investigação e resposta às ameaças. | <a href="https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=defender-portal"> Sentinel </a> | 
-
+   | Information Protection | Descontinuado (Microsoft Purview) | <a href="https://learn.microsoft.com/en-us/azure/information-protection/what-is-information-protection"> Information Protection </a>
+   | Entra Domain Services | Gerenciamento de serviços de domínio, como Join, Group Policy, LDAP, autenticação Kerberos / NTLM. Sem precisar de DCs | <a href="https://learn.microsoft.com/en-us/entra/identity/domain-services/overview"> Entra Domain Services </a> | 
+   | Entra External ID | Gerenciamento de Identidades Terceiras (B2B). | <a href="https://learn.microsoft.com/en-us/entra/external-id/external-identities-overview"> Entra External ID </a> | 
+   | Microsoft Entra | Produtos de Identidade e Acesso | <a href="https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra"> Microsoft Entra </a> | 
+   
+ 
 
 
 
