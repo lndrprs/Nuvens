@@ -118,7 +118,12 @@
    | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. | <a href="https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview"> Service Bus </a> | 
    | Digital Twins | Plataforma que permite a criação de modelos digitais de ambientes (fazendas, cidades, construções, etc.) | <a href="https://learn.microsoft.com/en-us/azure/digital-twins/overview"> Digital Twins </a> |
    | Azure IoT | Serviços para conectar, gerenciar e derivar inteligência de dispositivos IoT e equipamentos industriais. | <a href="https://learn.microsoft.com/en-us/azure/iot/iot-introduction"> Azure IoT </a> | 
-   | Azure IoT Central | 
+   | Azure IoT Central | Plataforma de aplicação, análise de cenário IoT dentro da empresa. | <a href="https://learn.microsoft.com/en-us/azure/iot-central/core/overview-iot-central"> IoT Central> </a> |
+   | Azure IoT Hub | Comunicação em escala entre aplicação IoT e os dispositivos conectados. | <a href="https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub"> IoT Hub </a> |
+   | Azure IoT Operations | Plano de Dados para Edge. Serviços de dados escaláveis e modulares em cluster Azure Erc-enabled Kubernetes. | <a href="https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations"> IoT Operations </a> |
+   | Machine Learning | Gerenciamento do projeto de ciclo de vida de ML. | <a href="https://learn.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning?view=azureml-api-2"> Machine Learning </a> |
+   | Azure Maps | Serviços Geoespaciais que usam dados geográficos, e fornece contexto geográficos para aplicações web e móveis. | <a href="https://learn.microsoft.com/en-us/azure/azure-maps/about-azure-maps"> Azure Maps </a> | 
+
 
 
 
