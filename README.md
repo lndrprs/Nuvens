@@ -132,7 +132,10 @@
    | Azure Automation | Serviço de automação que ajuda a automatizar processos e suporta gerenciamento consistente através do Azure e ambientes não Azure. | <a href="https://learn.microsoft.com/en-us/azure/automation/overview"> Azure Automation </a> |
    | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. | <a href="https://learn.microsoft.com/en-us/azure/advisor/advisor-overview"> Advisor </a> | 
    | Azure Backup | Serviço que ajuda a proteger dados e restaurar quando necessário. | <a href="https://learn.microsoft.com/en-us/azure/backup/backup-overview"> Backup </a> | 
-   | 
+   | Azure Blueprints | Descontinuado (Deployment Stacks / Template Specs). | <a href="https://learn.microsoft.com/en-us/azure/governance/blueprints/overview"> Blueprints </a> |
+   | Azure Cloud Shell | Terminal no navegador para gerenciamento de recursos Azure. | <a href="https://learn.microsoft.com/en-us/azure/cloud-shell/overview"> Azure Cloud SHell </a> | 
+   | Copilot | Ferramenta de IA para auxiliar no gerenciamento do ambiente. | <a href="https://learn.microsoft.com/en-us/azure/copilot/overview"> Copilot </a> |
+   |
 
 <br>
 
