@@ -135,7 +135,7 @@
    | Azure Blueprints | Descontinuado (Deployment Stacks / Template Specs). | <a href="https://learn.microsoft.com/en-us/azure/governance/blueprints/overview"> Blueprints </a> |
    | Azure Cloud Shell | Terminal no navegador para gerenciamento de recursos Azure. | <a href="https://learn.microsoft.com/en-us/azure/cloud-shell/overview"> Azure Cloud SHell </a> | 
    | Copilot | Ferramenta de IA para auxiliar no gerenciamento do ambiente. | <a href="https://learn.microsoft.com/en-us/azure/copilot/overview"> Copilot </a> |
-   |
+   | Lighthouse | Gestão multitenant de recursos do Azure. Provedor de serviços gerencia os ambientes Azure de múltiplos clientes. | <a href="https://learn.microsoft.com/en-us/azure/lighthouse/overview"> Lighthouse </a> |
 
 <br>
 
