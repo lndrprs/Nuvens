@@ -125,7 +125,10 @@
    | Azure Maps | Serviços Geoespaciais que usam dados geográficos, e fornece contexto geográficos para aplicações web e móveis. | <a href="https://learn.microsoft.com/en-us/azure/azure-maps/about-azure-maps"> Azure Maps </a> |
    | Azure Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. | <a href="https://learn.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere?view=azure-sphere-integrated"> Sphere </a> | 
    | Microsoft Defender for IoT | Solução de segurança para dispositivos IoT. | <a href="https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/overview"> Defender for IoT </a> | 
-   |
+   | Notification Hubs | Permite envio de notificações push para qualquer plataforma, de qualquer back-end. | <a href="https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-push-notification-overview"> Notification Hubs </a> | 
+   | Windows 10 IoT Core Services | Serviços essenciais para comercializar dispositivos que usam o W10 | <a href="https://learn.microsoft.com/en-us/previous-versions/windows/iot-core/manufacture/iotcoreservicesoverview"> W10 IoT Core Services </a> | 
+   | Windows for IoT | Família de SO Windows para dispositivos embarcados e de propósito específico. | <a href="https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/overview"> Windows for IoT </a> |
+   
 
 
 
