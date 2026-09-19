@@ -156,9 +156,14 @@
    | Media Services | Descontinuado | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/media-services/latest/media-services-overview"> Media Services </a> |
    | Data Box | Transferência de Dados maiores que 40 TBs em cenários com rede limiteda. | <a href="https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx-ng"> Data Box </a> |
    | Storage Mover | Serviço de migração que permite migrar arquivos e diretórios de On-Premises ou AWS S3 buckets ao Azure Storage. | <a href="https://learn.microsoft.com/en-us/azure/storage-mover/service-overview"> Storage Mover </a> |
-   
-
-
+   | Auzre AI Search | Serviço em nuvem que conecta seus dados a IA. | <a href="https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search?tabs=indexing%2Cquickstarts"> AI Search </a> |
+   | Communication Services | Oferece APIs de comunicação para adicionar voz, vídeo, chat, SMS, e-mail e mais opções nas aplicações. | <a href="https://learn.microsoft.com/en-us/azure/communication-services/overview"> Communication Services </a> |
+   | Foundry | Plataforma unificada para desenvolver, personalizar, implantar e gerenciar aplicações de IA e agentes inteligentes. | <a href="https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry"> Foundry </a> |
+   | Visual Studio App Center | Descontinuado | <a href="https://learn.microsoft.com/en-us/appcenter/retirement"> Visual Studio App Center | <a href="https://learn.microsoft.com/en-us/appcenter/retirement"> App Center </a> |
+   | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | <a href=https://learn.microsoft.com/en-us/azure/application-gateway/overview"> Application Gateway </a> |
+   | DDoS Protection | Proteção no Azure contra ataques Distributed Denial of Service. | <a href="https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview"> DDoS Protection </a> |
+   | Azure DNS | Hospeda DNS, resolução e balanceamento de carga para as aplicações, usando a Infra do Azure. | <a href="https://learn.microsoft.com/en-us/azure/dns/dns-overview"> DNS </a> |
+   | Enclave | Simplifca a implantação e o gerenciamento de ambientes de nuvem seguros, isolados e em conformidade para workloads sensíveis. | <a href="https://learn.microsoft.com/en-us/azure/enclave/what-azure-enclave"> Enclave </a> | 
 
 
 
