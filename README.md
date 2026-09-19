@@ -88,7 +88,7 @@
    | App Testing | Testes de performance e funcionais em alta escala.  | <a href="https://learn.microsoft.com/en-us/azure/app-testing/overview-what-is-azure-app-testing"> App Testing </a> |
    | Azure Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  | <a href="https://learn.microsoft.com/en-us/azure/devops/artifacts/start-using-azure-artifacts?view=azure-devops"> Artifacts </a> |
    | Deployment Environments | Descontinuado | <a href="https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments"> Deployment Environments </a> | 
-   | Azure Managed Grafana | Serviço operado e suportado pela MS, integração com ecossistema Azure. | <a href="https://learn.microsoft.com/en-us/azure/managed-grafana/overview"> Managed Grafana </a> |
+   | Azurena | Serviço operado e suportado pela MS, integração com ecossistema Azure. | <a href="https://learn.microsoft.com/en-us/azure/managed-grafana/overview"> Managed Grafana </a> |
    | Azure Monitor | Serviço de Observabilidade Unificado para coletar, analisar e agir sobre telemetria. | <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview"> Monitor </a> |
    | Azure Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. | <a href="https://learn.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops"> Repos </a> |
    | Test Plans | Ferramentas para qualidade e colaboração durante processo de desenvolvimento. | <a href="https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops"> Test Plans </a> |
@@ -136,6 +136,20 @@
    | Azure Cloud Shell | Terminal no navegador para gerenciamento de recursos Azure. | <a href="https://learn.microsoft.com/en-us/azure/cloud-shell/overview"> Azure Cloud SHell </a> | 
    | Copilot | Ferramenta de IA para auxiliar no gerenciamento do ambiente. | <a href="https://learn.microsoft.com/en-us/azure/copilot/overview"> Copilot </a> |
    | Lighthouse | Gestão multitenant de recursos do Azure. Provedor de serviços gerencia os ambientes Azure de múltiplos clientes. | <a href="https://learn.microsoft.com/en-us/azure/lighthouse/overview"> Lighthouse </a> |
+   | Managed Applications | Permite que provedores de serviços ofereçam soluções prontas no Marketplace. | <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/overview> Managed Applications </a> |
+   | Azure Migrate | Auxílio na na decisão de planejamento, execução e custos para migração ao Azure.  | <a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview?view=migrate> Migrate </a> | 
+   | Azure Policy | Ajuda a garantir padrões organizacionais e avaliar compliance em escala. | <a href="https://learn.microsoft.com/en-us/azure/governance/policy/overview"> Policy </a> | 
+   | Resource Mover | Movimentação de recursos Azure entre regiões. | <a href="https://learn.microsoft.com/en-us/azure/resource-mover/overview"> Resource Mover </a> | 
+   | Service Health | Informações de saúde do Azure, Serviços, Regiões e Recursos. | <a href="https://learn.microsoft.com/en-us/azure/service-health/overview"> Service Health </a> | 
+   | Site Recovery | Replica workloads para um segundo local. | <a href="https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview"> Site Recovery </a> |
+   | Update Manager | Serviço que ajuda a gerenciar e governar atualizações para máquinas no Azure, On-Prem ou outras Nuvens. | <a href="https://learn.microsoft.com/en-us/azure/update-manager/overview"> </a> | 
+   | Microsoft Billing | Gerenciamento de contas, invoices e pagamentos. | <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview"> Billing </a> | 
+   | Cost Management | Suite de ferramentas FinOps que analisar, monitorar e otimizar os custos no Azure. | <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management"> Cost Management </a> |
+   | Azure Portal | Console Web unificado para criar e gerenciar os recursos Azure. | <a href="https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview"> Portal </a> | 
+   | Microsoft Defender External Attack Surface Management (EASM) | Descoberta contínua e mapeamento de superfície de ataque. | <a href="https://learn.microsoft.com/en-us/azure/external-attack-surface-management/overview"> EASM </a> |
+   
+
+
 
 <br>
 
