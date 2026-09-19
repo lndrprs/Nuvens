@@ -147,7 +147,20 @@
    | Cost Management | Suite de ferramentas FinOps que analisar, monitorar e otimizar os custos no Azure. | <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management"> Cost Management </a> |
    | Azure Portal | Console Web unificado para criar e gerenciar os recursos Azure. | <a href="https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview"> Portal </a> | 
    | Microsoft Defender External Attack Surface Management (EASM) | Descoberta contínua e mapeamento de superfície de ataque. | <a href="https://learn.microsoft.com/en-us/azure/external-attack-surface-management/overview"> EASM </a> |
+   | AI Video Indexer | Solução de IA que permite organizações extraírem insights de vídeos ou áudios. | <a href="https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-overview"> AI Video Indexer </a> | 
+   | Front Door | Content Delivery Network para a Nuvem. | <a href="https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview"> Front Door </a> | 
+   | Media Player | Web video player que executa midias do Microsoft Azure Media Services, em uma variedade de navegadores e dispositivos. | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/media-services/azure-media-player/azure-media-player-overview"> Media Player </a> |
+   | Content Protection | Descontinuado | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/media-services/latest/drm-content-protection-concept"> Content Protection </a> |
+   | Encoding | Descontinuado | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/media-services/latest/encode-concept"> Encoding </a> |
+   | Live and On-Demand Streaming | Descontinuado | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/media-services/latest/stream-live-tutorial-with-api"> Live / On-Demand Streaming </a> |
+   | Media Services | Descontinuado | <a href="https://learn.microsoft.com/en-us/previous-versions/azure/media-services/latest/media-services-overview"> Media Services </a> |
+   | Data Box | Transferência de Dados maiores que 40 TBs em cenários com rede limiteda. | <a href="https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx-ng"> Data Box </a> |
+   | Storage Mover | Serviço de migração que permite migrar arquivos e diretórios de On-Premises ou AWS S3 buckets ao Azure Storage. | <a href="https://learn.microsoft.com/en-us/azure/storage-mover/service-overview"> Storage Mover </a> |
    
+
+
+
+
 
 
 
