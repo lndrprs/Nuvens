@@ -42,7 +42,7 @@
  | <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts"> API Management </a> | Plataforma para Ciclo de Vida de API. |  |
  | <a href="https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview"> App Configuration </a> | Gerenciamento Central de Aplicações |  |
  | <a href="https://learn.microsoft.com/en-us/azure/app-service/overview"> App Service </a> | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
- | <a href="https://learn.microsoft.com/en-us/azure/app-testing/> "App Testing </a> | Testes de performance e funcionais em alta escala.  |  |
+ | <a href="https://learn.microsoft.com/en-us/azure/app-testing/"> App Testing </a> | Testes de performance e funcionais em alta escala.  |  |
  | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. |  |
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
  | Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  |  |
