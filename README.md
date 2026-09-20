@@ -29,7 +29,7 @@
 
  | Serviço | Descrição | Especificidades |
  |---------|-----------|--------------|
- | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
+ | <a href="https://learn.microsoft.com/en-us/azure/advisor/advisor-overview"> Advisor </a> | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
  | AI Bot Service | Ambiente integrado para desenvolvimento de bots. | |
  | AI Content Safety | Detecta conteúdos prejudiciais criados por usuário e IA em aplicações e serviços. |  |
  | AI Custom Vision | Descontinuado |  |
