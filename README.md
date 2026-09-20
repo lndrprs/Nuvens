@@ -29,7 +29,7 @@
 
    | Serviço | Descrição | Especificidades |
    |---------|-----------|--------------|
-   | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |
+   | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
    | AI Search | Serviço em nuvem que conecta seus dados a IA. |  |
    | AI Video Indexer | Solução de IA que permite organizações extraírem insights de vídeos ou áudios. |  |
    | AKS Edge Essentials | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
