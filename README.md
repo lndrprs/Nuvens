@@ -22,7 +22,7 @@
 <br>
 
   <details>
-  <summary> 1.1 Azure Products </summary>
+  <summary> <a href="https://learn.microsoft.com/en-us/azure/?product=popular"> 1.1 Azure Products </a> </summary>
   <div>
 
 <br> 
