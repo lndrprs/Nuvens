@@ -30,6 +30,10 @@
  | Serviço | Descrição | Especificidades |
  |---------|-----------|--------------|
  | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
+ | AI Bot Service | Ambiente integrado para desenvolvimento de bots. | |
+ | AI Content Safety | Detecta conteúdos prejudiciais criados por usuário e IA em aplicações e serviços. |  |
+ | AI Custom Vision | Descontinuado |  |
+ | AI Immersive Reader | Ferramenta que ajuda na compreensão de leituras para pessoas com diferenças no aprendizado / leitura. |  |
  | AI Search | Serviço em nuvem que conecta seus dados a IA. |  |
  | AI Video Indexer | Solução de IA que permite organizações extraírem insights de vídeos ou áudios. |  |
  | AKS Edge Essentials | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
@@ -43,12 +47,7 @@
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
  | Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  |  |
  | Automation | Serviço de automação que ajuda a automatizar processos e suporta gerenciamento consistente através do Azure e ambientes não Azure. |  |
- | Portal | Console Web unificado para criar e gerenciar os recursos Azure. |  |
- | Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. |  |
- | Resource Manager (ARM) Templates | Arquivo JSON que define infraestrutura e configuração do projeto. |  |
- | Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. |  |
- | Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. |  |
- | Azurena | Serviço operado e suportado pela MS, integração com ecossistema Azure. |  |
+ | Azure | Serviço operado e suportado pela MS, integração com ecossistema Azure. |  |
  | Backup | Serviço que ajuda a proteger dados e restaurar quando necessário. |  |
  | Batch  | Execução de serviços batch paralelizados em alta escala, e processamento de alta performance. |  |  
  | Blueprints | Descontinuado (Deployment Stacks / Template Specs). |  |
@@ -76,6 +75,7 @@
  | Data Lake Storage  | Repositório para armazenamento de dados estruturados e não estruturados.   |  |
  | Data Manager for Agriculture | Descontinuado |  |
  | Data Manager for Energy | Plataforma de dados para a indústria da energia. |  |
+ | Data Science Virtual Machines (DSVM) | Imagem customizada para VMs, usadas para Data Science. | |
  | Data Share | Compartilhamento de Dados / Arquivos com múltiplos clientes e parceiros. |  |
  | Database for Maria DB | Descontinuado (Azure Database for MySQL) |  |
  | Database for MySQL | BD Relacional baseado no MySQL Community Edition. |  |
@@ -91,6 +91,7 @@
  | Digital Twins | Plataforma que permite a criação de modelos digitais de ambientes (fazendas, cidades, construções, etc.) |  |
  | Disk Storage | Armazenamento de nível de bloco / block. Volumes gerenciados pelo Azure, e usados nas VMs. |
  | DNS | Hospeda DNS, resolução e balanceamento de carga para as aplicações, usando a Infra do Azure. |  |
+ | Document Intelligence | Construção de soluções para processamento de documentos. |  |
  | DocumentDB | Banco de Dados compatível com MongoDB |  |
  | Elastic SAN | Solução completa que simplifica, provisiona, escala, gerencia e configura uma SAN (Storage AREA Network). |
  | Enclave | Simplifca a implantação e o gerenciamento de ambientes de nuvem seguros, isolados e em conformidade para workloads sensíveis. |  |
@@ -101,12 +102,14 @@
  | Event Hubs | Ingestão de Dados em grande escala. Recebe e processa milhões de eventos por segundo. |  |
  | ExpressRoute | Conectividade entre redes On-Premises e Microsoft Cloud, sobre conexão privaa. |  |
  | Fabric | Plataforma de Análise de Dados All in One |  |
+ | Face Service | Algoritmos de IA para detectar, reconhecer e analisar faces humanas em imagens. |  |
  | Files | Compartilhamento de Arquivos na nuvem, acessando por SMB e NFS. |
  | Firewall | Firewall de rede que oferece proteção contra ameaças para workloads da Nuvem. |
  | Foundry | Plataforma unificada para desenvolver, personalizar, implantar e gerenciar aplicações de IA e agentes inteligentes. |  |
  | Front Door | Content Delivery Network para a Nuvem. |  |
  | Functions  | Solução Serverless com Foco em Código |  |      
  | HDInsight | Plataforma de cluster gerenciável para uso de Frameworks de Dados (Apache Spark, Hive, LLAP, Kafka, Hadoop) |  |
+ | Health Bot | Desenvolvimento de assistantes focados em Saúde. | | 
  | Health Data Services | Solução que ajuda a coletar, armazenar e analisar dados de saúde de diferentes formatos e origens. |  |
  | Information Protection | Descontinuado (Microsoft Purview) | 
  | IoT | Serviços para conectar, gerenciar e derivar inteligência de dispositivos IoT e equipamentos industriais. |  |
@@ -118,6 +121,7 @@
  | Kubernetes Fleet Manager  | Gerenciamento de Múltiplos Clusters Kubernetes |  |
  | Kubernetes Service  | Serviço Gerenciado de K8s |  |      
  | Lab Services | Descontinuado |
+ | Language | Serviço que fornece Natural Language Processing (NLP) para entender e analisar texto. | |
  | Lighthouse | Gestão multitenant de recursos do Azure. Provedor de serviços gerencia os ambientes Azure de múltiplos clientes. |  |
  | Live and On-Demand Streaming | Descontinuado |  |
  | Load Balancer | Distribuição de tráfego entre máquinas virtuals e Scale Sets de máquinas virtuais. |
@@ -141,25 +145,33 @@
  | NAT Gateway | Tradução de Endereço. Instâncias em uma subnet usam para se conectar na internet, se mantendo privadas. |
  | NetApp | Serviço de armazenamento de arquivo. Volume como serviço. |
  | Notification Hubs | Permite envio de notificações push para qualquer plataforma, de qualquer back-end. |  |
+ | Open Datasets | Conjunto de dados públicos que podem ser adicionados em soluções de ML. |  |
  | Operator Nexus | Plataforma para operadores de Telecomunicação. |  |
  | Operator Service Manager | Orquestração em nuvem para automatizar ciclo de vida de worklods móveis no Operator Nexus. |  |
  | Pipelines | Parte do Azure DevOps, combinando CI, CT e CD. |  |
  | Playwright Workspaces | Plataforma para teste de aplicações |  |
  | Policy | Ajuda a garantir padrões organizacionais e avaliar compliance em escala. |  |
+ | Portal | Console Web unificado para criar e gerenciar os recursos Azure. |  |
  | Power BI | Transformação de Dados em Relatórios e Dasbhboards |  |
  | Private Link | Permite acessar serviços PaaS através de um endpoint privado na rede virtual. |
  | Purview | Governança de Dados e Proteção. |  |
  | Quantum  | Serviço de Computação Quântica |  |      
+ | Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. |  |
+ | Resource Manager (ARM) Templates | Arquivo JSON que define infraestrutura e configuração do projeto. |  |
  | Resource Mover | Movimentação de recursos Azure entre regiões. |  |
+ | Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. |  |
  | Sentinel | Solução SIEM Cloud-Native, combinando AI, automação e inteligência de ameaça para suportar detecção, investigação e resposta às ameaças. |  |
  | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. |  |
  | Service Fabric  | Plataforma de Sistemas Distribuídos |  |      
  | Service Health | Informações de saúde do Azure, Serviços, Regiões e Recursos. |  |
  | SignalR Service | Funcionalidade Web em tempo real para aplicações sobre HTTP. |
  | Site Recovery | Replica workloads para um segundo local. |  |
+ | Speech | Fornece transcrisão de Fala para Texto, Texto para Fala e outras capacidades. | |
+ | Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. |  |
  | Spot VMs | VMs para uso de capacidade inutilizada do Azure |  |
  | SQL Database | Banco de Dados PaaS |  |
  | SQL Server on VMs | Permite usar versão completa do SQL Server sem hardware on-prem. |  |
+ | SRE Agent | Ajuda times a investigarem incidentes e a responder rapidamente. | |
  | Stack Edge | Dispositivo de Hardware (Appliance), enviado da MS para instalações do cliente, levando processamento, armazenamento, e IA para a boarda da rede. |  |
  | Stack Hub | Extensão do Azure que providencia execução de Apps em ambientes On-Premises e entrega serviços Azure no seu Datacenter. |  |
  | Static Web Apps  | Serviço que provisiona stack inteira de Aplicações Web através de um repositório de código. |  |  
@@ -170,10 +182,12 @@
  | Synapse Analytics | Plataforma unificada de Data Warehousing e Big Data |  |
  | Table Storage | Armazenamento de dados NoSQL estruturados na Nuvem. |  |
  | Test Plans | Ferramentas para qualidade e colaboração durante processo de desenvolvimento. |  |
+ | Translator | Serviço para tradução de idioma. | 
  | Update Manager | Serviço que ajuda a gerenciar e governar atualizações para máquinas no Azure, On-Prem ou outras Nuvens. |  |
  | Virtual Desktop | Serviço de Virtualização de Desktop e App. |  |  
  | Virtual Network | Rede privada no Azure para conexão entre recursos, internet e on-premises. |
  | Virtual WAN | Conecta regiões, sites locais, usuários remotos, filiais e outras nuvens. |
+ | Vision | Algoritmos para processamento de imagens e resultados desse processamento. | | 
  | Visual Studio App Center | Descontinuado |  |
  | VMs | Privisionamento de Máquinas Virtuais |  |
  | VMs Scale Sets  | Grupo de Máquinas Virtuais com LB |  |
