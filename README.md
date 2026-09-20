@@ -43,11 +43,11 @@
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
  | Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  |  |
  | Automation | Serviço de automação que ajuda a automatizar processos e suporta gerenciamento consistente através do Azure e ambientes não Azure. |  |
- | Azure Portal | Console Web unificado para criar e gerenciar os recursos Azure. |  |
- | Azure Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. |  |
- | Azure Resource Manager (ARM) Templates | Arquivo JSON que define infraestrutura e configuração do projeto. |  |
- | Azure Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. |  |
- | Azure Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. |  |
+ | Portal | Console Web unificado para criar e gerenciar os recursos Azure. |  |
+ | Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. |  |
+ | Resource Manager (ARM) Templates | Arquivo JSON que define infraestrutura e configuração do projeto. |  |
+ | Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. |  |
+ | Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. |  |
  | Azurena | Serviço operado e suportado pela MS, integração com ecossistema Azure. |  |
  | Backup | Serviço que ajuda a proteger dados e restaurar quando necessário. |  |
  | Batch  | Execução de serviços batch paralelizados em alta escala, e processamento de alta performance. |  |  
