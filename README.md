@@ -164,7 +164,8 @@
    | DDoS Protection | Proteção no Azure contra ataques Distributed Denial of Service. | <a href="https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview"> DDoS Protection </a> |
    | Azure DNS | Hospeda DNS, resolução e balanceamento de carga para as aplicações, usando a Infra do Azure. | <a href="https://learn.microsoft.com/en-us/azure/dns/dns-overview"> DNS </a> |
    | Enclave | Simplifca a implantação e o gerenciamento de ambientes de nuvem seguros, isolados e em conformidade para workloads sensíveis. | <a href="https://learn.microsoft.com/en-us/azure/enclave/what-azure-enclave"> Enclave </a> | 
-
+   | Firewall | Firewall de rede que oferece proteção contra ameaças para workloads da Nuvem. | 
+   
 
 
 
