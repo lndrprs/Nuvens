@@ -136,8 +136,8 @@
    | Azure Cloud Shell | Terminal no navegador para gerenciamento de recursos Azure. | <a href="https://learn.microsoft.com/en-us/azure/cloud-shell/overview"> Azure Cloud SHell </a> | 
    | Copilot | Ferramenta de IA para auxiliar no gerenciamento do ambiente. | <a href="https://learn.microsoft.com/en-us/azure/copilot/overview"> Copilot </a> |
    | Lighthouse | Gestão multitenant de recursos do Azure. Provedor de serviços gerencia os ambientes Azure de múltiplos clientes. | <a href="https://learn.microsoft.com/en-us/azure/lighthouse/overview"> Lighthouse </a> |
-   | Managed Applications | Permite que provedores de serviços ofereçam soluções prontas no Marketplace. | <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/overview> Managed Applications </a> |
-   | Azure Migrate | Auxílio na na decisão de planejamento, execução e custos para migração ao Azure.  | <a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview?view=migrate> Migrate </a> | 
+   | Managed Applications | Permite que provedores de serviços ofereçam soluções prontas no Marketplace. | <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/overview"> Managed Applications </a> |
+   | Azure Migrate | Auxílio na na decisão de planejamento, execução e custos para migração ao Azure.  | <a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview?view=migrate"> Migrate </a> | 
    | Azure Policy | Ajuda a garantir padrões organizacionais e avaliar compliance em escala. | <a href="https://learn.microsoft.com/en-us/azure/governance/policy/overview"> Policy </a> | 
    | Resource Mover | Movimentação de recursos Azure entre regiões. | <a href="https://learn.microsoft.com/en-us/azure/resource-mover/overview"> Resource Mover </a> | 
    | Service Health | Informações de saúde do Azure, Serviços, Regiões e Recursos. | <a href="https://learn.microsoft.com/en-us/azure/service-health/overview"> Service Health </a> | 
@@ -160,7 +160,7 @@
    | Communication Services | Oferece APIs de comunicação para adicionar voz, vídeo, chat, SMS, e-mail e mais opções nas aplicações. | <a href="https://learn.microsoft.com/en-us/azure/communication-services/overview"> Communication Services </a> |
    | Foundry | Plataforma unificada para desenvolver, personalizar, implantar e gerenciar aplicações de IA e agentes inteligentes. | <a href="https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry"> Foundry </a> |
    | Visual Studio App Center | Descontinuado | <a href="https://learn.microsoft.com/en-us/appcenter/retirement"> Visual Studio App Center | <a href="https://learn.microsoft.com/en-us/appcenter/retirement"> App Center </a> |
-   | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | <a href=https://learn.microsoft.com/en-us/azure/application-gateway/overview"> Application Gateway </a> |
+   | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | <a href="https://learn.microsoft.com/en-us/azure/application-gateway/overview"> Application Gateway </a> |
    | DDoS Protection | Proteção no Azure contra ataques Distributed Denial of Service. | <a href="https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview"> DDoS Protection </a> |
    | Azure DNS | Hospeda DNS, resolução e balanceamento de carga para as aplicações, usando a Infra do Azure. | <a href="https://learn.microsoft.com/en-us/azure/dns/dns-overview"> DNS </a> |
    | Enclave | Simplifca a implantação e o gerenciamento de ambientes de nuvem seguros, isolados e em conformidade para workloads sensíveis. | <a href="https://learn.microsoft.com/en-us/azure/enclave/what-azure-enclave"> Enclave </a> | 
