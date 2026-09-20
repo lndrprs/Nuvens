@@ -36,7 +36,7 @@
  | <a href="https://learn.microsoft.com/en-us/azure/ai-services/immersive-reader"> AI Immersive Reader </a> | Ferramenta que ajuda na compreensão de leituras para pessoas com diferenças no aprendizado / leitura. |  |
  | <a href="https://learn.microsoft.com/en-us/azure/search"> AI Search </a> | Serviço em nuvem que conecta seus dados a IA. |  |
  | <a href="https://learn.microsoft.com/en-us/azure/azure-video-indexer"> AI Video Indexer </a> | Solução de IA que permite organizações extraírem insights de vídeos ou áudios. |  |
- | <a href="https://learn.microsoft.com/en-us/azure/aks-hybrid-edge/edge-essentials" > AKS Edge Essentials </a> | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
+ | <a href="https://learn.microsoft.com/en-us/azure/aks-hybrid-edge/" > AKS Edge Essentials </a> | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
  | <a href="https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services"> Analysis Services </a> | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |   |
  | <a href="https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir"> API for FHIR </a> | Descontinuado (Azure Health Data Services FHIR service) |  |
  | <a href="https://learn.microsoft.com/en-us/azure/api-management"> API Management </a> | Plataforma para Ciclo de Vida de API. |  |
