@@ -165,7 +165,26 @@
    | Azure DNS | Hospeda DNS, resolução e balanceamento de carga para as aplicações, usando a Infra do Azure. | <a href="https://learn.microsoft.com/en-us/azure/dns/dns-overview"> DNS </a> |
    | Enclave | Simplifca a implantação e o gerenciamento de ambientes de nuvem seguros, isolados e em conformidade para workloads sensíveis. | <a href="https://learn.microsoft.com/en-us/azure/enclave/what-azure-enclave"> Enclave </a> | 
    | Firewall | Firewall de rede que oferece proteção contra ameaças para workloads da Nuvem. | 
+   | Private Link | Permite acessar serviços PaaS através de um endpoint privado na rede virtual. |
+   | Load Balancer | Distribuição de tráfego entre máquinas virtuals e Scale Sets de máquinas virtuais. | 
+   | NAT Gateway | Tradução de Endereço. Instâncias em uma subnet usam para se conectar na internet, se mantendo privadas. |
+   | Virtual Network | Rede privada no Azure para conexão entre recursos, internet e on-premises. | 
+   | Virtual WAN | Conecta regiões, sites locais, usuários remotos, filiais e outras nuvens. | 
+   | VPN Gateway | Criptografia de tráfego entre VNet e On-Prem, sob internet pública. | 
+   | Web Application Firewall | Proteção centralizada para aplicações web contra vulnerabilidades comuns. | 
+   | Cloud HSM (Hardware Security Module) | Armazenamento de chaves criptográficas e operações criptográficas com controle total do cliente sobre hardware. |
+   | Key Vault | Gerenciamento de Secrets, Key e Certificados. | 
+   | Disk Storage | Armazenamento de nível de bloco / block. Volumes gerenciados pelo Azure, e usados nas VMs. |
+   | Elastic SAN | Solução completa que simplifica, provisiona, escala, gerencia e configura uma SAN (Storage AREA Network). | 
+   | Files | Compartilhamento de Arquivos na nuvem, acessando por SMB e NFS. | 
+   | Managed Lustre | Sistema de arquivo que fornece armazenamento para workloads de computação de alta performance (HPC). | 
+   | NetApp | Serviço de armazenamento de arquivo. Volume como serviço. | 
+   | Storage Actions | Automatização de tarefas para gerenciamento de dados do Blob Storage e Data Lake Storage. | 
+   | Storage Explorer | Aplicação que facilita o trabalho com o Azure Storage. | 
+   | Lab Services | Descontinuado |
+   | SignalR Service | Funcionalidade Web em tempo real para aplicações sobre HTTP. |
    
+
 
 
 
