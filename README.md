@@ -39,7 +39,7 @@
  | AKS Edge Essentials | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
  | Analysis Services | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |   |
  | API for FHIR  | Descontinuado (Azure Health Data Services FHIR service) |  |
- | API Management | Plataforma para Ciclo de Vida de API. |  |
+ | API Management | Plataforma para Ciclo de Vida de API. | • Permite restringir tráfego (Rate Limiting). • Integração para OAuth 2.0. • Não modifica Logic Apps. • Não gerencia contas / convidados.  |
  | App Configuration  | Gerenciamento Central de Aplicações |  |
  | App Service  | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
  | App Testing | Testes de performance e funcionais em alta escala.  |  |
@@ -61,7 +61,7 @@
  | Confidential Ledger | Serviço de BD gerenciado pela MS, armazena registros de dados de forma imutável e à prova de adulteração. |  |
  | Container Apps | Plataforma Serverless para Execução de Aplicações Contênerizadas |  |
  | Container Instances (ACI) | Execução de Contêineres no Azure |  |      
- | Container Registry | Armazenamento e Gerenciamento de Imagens de Contêineres. |  |
+ | Container Registry | Armazenamento e Gerenciamento de Imagens de Contêineres. | • Premium SKU permite Geo-Replication. |
  | Container Storage | Gerenciamento de Volume para Contêineres. |  |  
  | Content Protection | Descontinuado |  |
  | Copilot | Ferramenta de IA para auxiliar no gerenciamento do ambiente. |  |
@@ -70,7 +70,7 @@
  | CycleCloud  | Orquestração de Ambientes HPC (High Performance Computing) |  |      
  | Data Box | Transferência de Dados maiores que 40 TBs em cenários com rede limiteda. |  |
  | Data Explorer  | Plataforma Analytics de Big Data  |  |  
- | Data Factory  | Serviço Cloud de ETL - Extract Transform Load / ELT - Extract Load Transform.  |  |
+ | Data Factory  | Serviço Cloud de ETL - Extract Transform Load / ELT - Extract Load Transform.  | • Movimentação de dados e orquestração. |
  | Data Lake Analytics | Descontinuado |  |
  | Data Lake Storage  | Repositório para armazenamento de dados estruturados e não estruturados.   |  |
  | Data Manager for Agriculture | Descontinuado |  |
@@ -99,14 +99,14 @@
  | Entra Domain Services | Gerenciamento de serviços de domínio, como Join, Group Policy, LDAP, autenticação Kerberos / NTLM. Sem precisar de DCs |  |
  | Entra External ID | Gerenciamento de Identidades Terceiras (B2B). |  |
  | Event Grid | Serviço de Publicação / Subscrição para distribuilção de mensagens. |  |
- | Event Hubs | Ingestão de Dados em grande escala. Recebe e processa milhões de eventos por segundo. |  |
+ | Event Hubs | Ingestão de Dados em grande escala. Recebe e processa milhões de eventos por segundo. | • Utiliza AMQP para persistência de conexão e baita latência.  |
  | ExpressRoute | Conectividade entre redes On-Premises e Microsoft Cloud, sobre conexão privaa. |  |
  | Fabric | Plataforma de Análise de Dados All in One |  |
  | Face Service | Algoritmos de IA para detectar, reconhecer e analisar faces humanas em imagens. |  |
  | Files | Compartilhamento de Arquivos na nuvem, acessando por SMB e NFS. | |
  | Firewall | Firewall de rede que oferece proteção contra ameaças para workloads da Nuvem. |
  | Foundry | Plataforma unificada para desenvolver, personalizar, implantar e gerenciar aplicações de IA e agentes inteligentes. |  |
- | Front Door | Content Delivery Network para a Nuvem. |  |
+ | Front Door | Content Delivery Network para a Nuvem. | • Usa SSL para criptografia de tráfego.  |
  | Functions  | Solução Serverless com Foco em Código | • Consumption Plan não possui integração co recursos da VNet. |      
  | HDInsight | Plataforma de cluster gerenciável para uso de Frameworks de Dados (Apache Spark, Hive, LLAP, Kafka, Hadoop) |  |
  | Health Bot | Desenvolvimento de assistantes focados em Saúde. | | 
