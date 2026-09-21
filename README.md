@@ -43,12 +43,12 @@
  | App Configuration  | Gerenciamento Central de Aplicações |  |
  | App Service  | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
  | App Testing | Testes de performance e funcionais em alta escala.  |  |
- | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. |  |
+ | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | • Fornece apenas Load Balancing Regional |
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
  | Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  |  |
  | Automation | Serviço de automação que ajuda a automatizar processos e suporta gerenciamento consistente através do Azure e ambientes não Azure. |  |
  | Azure | Serviço operado e suportado pela MS, integração com ecossistema Azure. |  |
- | Backup | Serviço que ajuda a proteger dados e restaurar quando necessário. |  |
+ | Backup | Serviço que ajuda a proteger dados e restaurar quando necessário. | • Possui o Back Pre-Check para validar pré-requisitos antes de permitir o Backup. |
  | Batch  | Execução de serviços batch paralelizados em alta escala, e processamento de alta performance. |  |  
  | Blueprints | Descontinuado (Deployment Stacks / Template Specs). |  |
  | Boards | Serviço Web para times planejaram, acompanharem e discutirem ciclo de vida de desenvolvimento. |  |
@@ -65,7 +65,7 @@
  | Container Storage | Gerenciamento de Volume para Contêineres. |  |  
  | Content Protection | Descontinuado |  |
  | Copilot | Ferramenta de IA para auxiliar no gerenciamento do ambiente. |  |
- | Cosmos DB | BD NoSQL gerenciado e multimodelo da MS, projeto para baixa latência global, alta disponibilidade e escalabilidade elástica. |  |
+ | Cosmos DB | BD NoSQL gerenciado e multimodelo da MS, projeto para baixa latência global, alta disponibilidade e escalabilidade elástica. | • Permite Escritas de múltiplas regiões. |
  | Cost Management | Suite de ferramentas FinOps que analisar, monitorar e otimizar os custos no Azure. |  |
  | CycleCloud  | Orquestração de Ambientes HPC (High Performance Computing) |  |      
  | Data Box | Transferência de Dados maiores que 40 TBs em cenários com rede limiteda. |  |
@@ -103,11 +103,11 @@
  | ExpressRoute | Conectividade entre redes On-Premises e Microsoft Cloud, sobre conexão privaa. |  |
  | Fabric | Plataforma de Análise de Dados All in One |  |
  | Face Service | Algoritmos de IA para detectar, reconhecer e analisar faces humanas em imagens. |  |
- | Files | Compartilhamento de Arquivos na nuvem, acessando por SMB e NFS. |
+ | Files | Compartilhamento de Arquivos na nuvem, acessando por SMB e NFS. | |
  | Firewall | Firewall de rede que oferece proteção contra ameaças para workloads da Nuvem. |
  | Foundry | Plataforma unificada para desenvolver, personalizar, implantar e gerenciar aplicações de IA e agentes inteligentes. |  |
  | Front Door | Content Delivery Network para a Nuvem. |  |
- | Functions  | Solução Serverless com Foco em Código |  |      
+ | Functions  | Solução Serverless com Foco em Código | • Consumption Plan não possui integração co recursos da VNet. |      
  | HDInsight | Plataforma de cluster gerenciável para uso de Frameworks de Dados (Apache Spark, Hive, LLAP, Kafka, Hadoop) |  |
  | Health Bot | Desenvolvimento de assistantes focados em Saúde. | | 
  | Health Data Services | Solução que ajuda a coletar, armazenar e analisar dados de saúde de diferentes formatos e origens. |  |
