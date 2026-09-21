@@ -29,7 +29,7 @@
 
  | Serviço | Descrição | Especificidades |
  |---------|-----------|--------------|
- | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
+ | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. | • Recomendações para otimização de custos. • Identifica recursos subutilizados ou ociosos. |  
  | AI Bot Service | Ambiente integrado para desenvolvimento de bots. | |
  | AI Content Safety | Detecta conteúdos prejudiciais criados por usuário e IA em aplicações e serviços. |  |
  | AI Custom Vision | Descontinuado |  |
@@ -150,7 +150,7 @@
  | Operator Service Manager | Orquestração em nuvem para automatizar ciclo de vida de worklods móveis no Operator Nexus. |  |
  | Pipelines | Parte do Azure DevOps, combinando CI, CT e CD. |  |
  | Playwright Workspaces | Plataforma para teste de aplicações |  |
- | Policy | Ajuda a garantir padrões organizacionais e avaliar compliance em escala. |  |
+ | Policy | Ajuda a garantir padrões organizacionais e avaliar compliance em escala. | • Podem ser adicionadas em Subscriptions, Management Groups e Resource Groups.  |
  | Portal | Console Web unificado para criar e gerenciar os recursos Azure. |  |
  | Power BI | Transformação de Dados em Relatórios e Dasbhboards |  |
  | Private Link | Permite acessar serviços PaaS através de um endpoint privado na rede virtual. |
