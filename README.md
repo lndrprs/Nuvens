@@ -161,7 +161,7 @@
  | Resource Mover | Movimentação de recursos Azure entre regiões. |  |
  | Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. |  |
  | Sentinel | Solução SIEM Cloud-Native, combinando AI, automação e inteligência de ameaça para suportar detecção, investigação e resposta às ameaças. |  |
- | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. | • Autoforwarding permite mensagens serem direcionadas para outras filas ou tópicos.  |
+ | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. | • Autoforwarding permite mensagens serem direcionadas para outras filas ou tópicos. • Dead Letter Queue captura mensagens expiradas ou não entregáveis. • Partioning é a distribuição de mensagens entre intermediários. • Sessions agrupam mensagens relacionadas para processamento ordenado.  |
  | Service Fabric  | Plataforma de Sistemas Distribuídos |  |      
  | Service Health | Informações de saúde do Azure, Serviços, Regiões e Recursos. |  |
  | SignalR Service | Funcionalidade Web em tempo real para aplicações sobre HTTP. |
