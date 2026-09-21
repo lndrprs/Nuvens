@@ -161,7 +161,7 @@
  | Resource Mover | Movimentação de recursos Azure entre regiões. |  |
  | Ret Hat OpenShift | Provisionamento de cluster OpenShift totalmente gerenciável. |  |
  | Sentinel | Solução SIEM Cloud-Native, combinando AI, automação e inteligência de ameaça para suportar detecção, investigação e resposta às ameaças. |  |
- | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. |  |
+ | Service Bus | Agente gerenciável de fila de mensagens e tópicos de publicação / assintura. | • Autoforwarding permite mensagens serem direcionadas para outras filas ou tópicos.  |
  | Service Fabric  | Plataforma de Sistemas Distribuídos |  |      
  | Service Health | Informações de saúde do Azure, Serviços, Regiões e Recursos. |  |
  | SignalR Service | Funcionalidade Web em tempo real para aplicações sobre HTTP. |
@@ -186,7 +186,7 @@
  | Update Manager | Serviço que ajuda a gerenciar e governar atualizações para máquinas no Azure, On-Prem ou outras Nuvens. |  |
  | Virtual Desktop | Serviço de Virtualização de Desktop e App. |  |  
  | Virtual Network | Rede privada no Azure para conexão entre recursos, internet e on-premises. |
- | Virtual WAN | Conecta regiões, sites locais, usuários remotos, filiais e outras nuvens. |
+ | Virtual WAN | Conecta regiões, sites locais, usuários remotos, filiais e outras nuvens. | • Plano básico não suporta ExpressRoute, apenas Standard. |
  | Vision | Algoritmos para processamento de imagens e resultados desse processamento. | | 
  | Visual Studio App Center | Descontinuado |  |
  | VMs | Privisionamento de Máquinas Virtuais |  |
