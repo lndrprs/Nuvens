@@ -29,20 +29,20 @@
 
  | Serviço | Descrição | Especificidades |
  |---------|-----------|--------------|
- | <a href="https://learn.microsoft.com/en-us/azure/advisor"> Advisor </a> | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
- | <a href="https://learn.microsoft.com/en-us/azure/bot-service"> AI Bot Service </a> | Ambiente integrado para desenvolvimento de bots. | |
- | <a href="https://learn.microsoft.com/en-us/azure/ai-services/content-safety"> AI Content Safety </a> | Detecta conteúdos prejudiciais criados por usuário e IA em aplicações e serviços. |  |
- | <a href="https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service"> AI Custom Vision </a> | Descontinuado |  |
- | <a href="https://learn.microsoft.com/en-us/azure/ai-services/immersive-reader"> AI Immersive Reader </a> | Ferramenta que ajuda na compreensão de leituras para pessoas com diferenças no aprendizado / leitura. |  |
- | <a href="https://learn.microsoft.com/en-us/azure/search"> AI Search </a> | Serviço em nuvem que conecta seus dados a IA. |  |
- | <a href="https://learn.microsoft.com/en-us/azure/azure-video-indexer"> AI Video Indexer </a> | Solução de IA que permite organizações extraírem insights de vídeos ou áudios. |  |
- | <a href="https://learn.microsoft.com/en-us/azure/aks-hybrid-edge/" > AKS Edge Essentials </a> | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
- | <a href="https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services"> Analysis Services </a> | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |   |
- | <a href="https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir"> API for FHIR </a> | Descontinuado (Azure Health Data Services FHIR service) |  |
- | <a href="https://learn.microsoft.com/en-us/azure/api-management"> API Management </a> | Plataforma para Ciclo de Vida de API. |  |
- | <a href="https://learn.microsoft.com/en-us/azure/azure-app-configuration"> App Configuration </a> | Gerenciamento Central de Aplicações |  |
- | <a href="https://learn.microsoft.com/en-us/azure/app-service"> App Service </a> | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
- | <a href="https://learn.microsoft.com/en-us/azure/app-testing"> App Testing </a> | Testes de performance e funcionais em alta escala.  |  |
+ | Advisor | Assistente digital que ajuda a seguir melhores práticas para otimizar provisionamentos Azure. |  |  
+ | AI Bot Service | Ambiente integrado para desenvolvimento de bots. | |
+ | AI Content Safety | Detecta conteúdos prejudiciais criados por usuário e IA em aplicações e serviços. |  |
+ | AI Custom Vision | Descontinuado |  |
+ | AI Immersive Reader | Ferramenta que ajuda na compreensão de leituras para pessoas com diferenças no aprendizado / leitura. |  |
+ | AI Search | Serviço em nuvem que conecta seus dados a IA. |  |
+ | AI Video Indexer | Solução de IA que permite organizações extraírem insights de vídeos ou áudios. |  |
+ | AKS Edge Essentials | Execuçao automatizada de aplicações contêinerizadas em escala, com baixo resquício e instalação simples. |  |
+ | Analysis Services | PaaS inteiramente gerenciável que fornece Data Models em nível empresarial. |   |
+ | API for FHIR  | Descontinuado (Azure Health Data Services FHIR service) |  |
+ | API Management | Plataforma para Ciclo de Vida de API. |  |
+ | App Configuration  | Gerenciamento Central de Aplicações |  |
+ | App Service  | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
+ | App Testing | Testes de performance e funcionais em alta escala.  |  |
  | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. |  |
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
  | Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  |  |
