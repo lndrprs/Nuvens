@@ -212,9 +212,17 @@
 
 <br> 
 
- | Nome   | Serviço Configurável | Descrição |
- |--------|----------------------|-----------|
- | | | |  
+ | Nome   | Descrição |
+ |--------|-----------|
+ | Dynamic Data Masking (DDM)| Política de segurança que limita dados sensíveis, mascarando para usuários não privilegiados. |  
+ | Multi-Site Listeners | Permite múltiplos hostnames serem servidos no mesmo Application Gateway ou Front Door. |
+ | URL Path Based | Direciona o tráfego dentro de um mesmo domínio. (/finanças ou /vendas). |
+ | CodeLens | Característica do Application Insights para verificar exceções em códigos. | 
+ | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
+ | Local Network Gateway | Representa o dispositivo On-Prem de VPN. |
+ | On-Premises Data Gateway | Conecta serviços da nuvem, como Power BI, Power Automate, Logic Apps, para data sources locais. |  
+ | Alerts | Característica do Azure Monitor para alertas. | 
+ | Application Performance Management (APM) | Análises de performance das aplicações. Application Insights é usado para essa finalidade. |
 
 <br>
 
