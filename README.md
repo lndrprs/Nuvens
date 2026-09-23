@@ -182,7 +182,7 @@
  | Synapse Analytics | Plataforma unificada de Data Warehousing e Big Data |  |
  | Table Storage | Armazenamento de dados NoSQL estruturados na Nuvem. |  |
  | Test Plans | Ferramentas para qualidade e colaboração durante processo de desenvolvimento. |  |
- | Traffic Manager | Load Balancer global para aplicativos, baseado em DNS  | • Possui 6 métodos de Roteamento. • Possui Failover automático. • Suporta endpoints do Azure, Externos e On-Premises. |
+ | Traffic Manager | Load Balancer global para aplicativos, baseado em DNS  | • Possui 6 métodos de Roteamento. • Possui Failover automático. • Suporta endpoints do Azure, Externos e On-Premises. • Possui monitoramento de endpoint. |
  | Translator | Serviço para tradução de idioma. | 
  | Update Manager | Serviço que ajuda a gerenciar e governar atualizações para máquinas no Azure, On-Prem ou outras Nuvens. |  |
  | Virtual Desktop | Serviço de Virtualização de Desktop e App. |  |  
