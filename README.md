@@ -204,7 +204,7 @@
   </div>
   </details>           
 
-<br>
+
 
   <details>
   <summary> <a href="https://learn.microsoft.com/en-us/docs/"> 1.2 Especificidades Azure </a> </summary>
@@ -212,7 +212,7 @@
 
 <br> 
 
- | SNome   | Descrição |
+ | Nome   | Descrição |
  |---------|-----------|
  |  | | 
 
