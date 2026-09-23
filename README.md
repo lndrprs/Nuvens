@@ -41,7 +41,7 @@
  | API for FHIR  | Descontinuado (Azure Health Data Services FHIR service) |  |
  | API Management | Plataforma para Ciclo de Vida de API. | • Permite restringir tráfego (Rate Limiting). • Integração para OAuth 2.0. • Não modifica Logic Apps. • Não gerencia contas / convidados.  |
  | App Configuration  | Gerenciamento Central de Aplicações |  |
- | App Service  | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
+ | App Service  | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles | • Possui Autoscaing, Load Balacing, e Gerenciamento automatizado. • Possui capacidades de CD, segmentação de ambientes, domínio customizado e c ertificados TLS /SSL.   |      
  | App Testing | Testes de performance e funcionais em alta escala.  |  |
  | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | • Fornece apenas Load Balancing Regional • Suporta AutoScaling, Round Robin e Cookie Based Session Affinity, HTTPS e TLS. |
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
@@ -50,7 +50,7 @@
  | Azure | Serviço operado e suportado pela MS, integração com ecossistema Azure. |  |
  | Backup | Serviço que ajuda a proteger dados e restaurar quando necessário. | • Possui o Back Pre-Check para validar pré-requisitos antes de permitir o Backup. |
  | Batch  | Execução de serviços batch paralelizados em alta escala, e processamento de alta performance. |  |  
- | Blueprints | Descontinuado (Deployment Stacks / Template Specs). |  |
+ | Blueprints | Descontinuado (Deployment Stacks / Template Specs). | • Permite empacotar definições de políticas, atribuições RBAC e templates de recursos.  |
  | Boards | Serviço Web para times planejaram, acompanharem e discutirem ciclo de vida de desenvolvimento. |  |
  | Cache for Redis | Descontinuado (Azure Managed Redis) |  |
  | Chaos Studio  | Teste de Resiliência do Azure |  |  
@@ -106,7 +106,7 @@
  | Files | Compartilhamento de Arquivos na nuvem, acessando por SMB e NFS. | |
  | Firewall | Firewall de rede que oferece proteção contra ameaças para workloads da Nuvem. |
  | Foundry | Plataforma unificada para desenvolver, personalizar, implantar e gerenciar aplicações de IA e agentes inteligentes. |  |
- | Front Door | Content Delivery Network para a Nuvem. | • Usa SSL para criptografia de tráfego.  |
+ | Front Door | Content Delivery Network para a Nuvem. | • Usa SSL para criptografia de tráfego. • Suporta WAF, Roteamento por URL e Afinidade por Cookie.  |
  | Functions  | Solução Serverless com Foco em Código | • Consumption Plan não possui integração co recursos da VNet. |      
  | HDInsight | Plataforma de cluster gerenciável para uso de Frameworks de Dados (Apache Spark, Hive, LLAP, Kafka, Hadoop) |  |
  | Health Bot | Desenvolvimento de assistantes focados em Saúde. | | 
@@ -165,7 +165,7 @@
  | Service Fabric  | Plataforma de Sistemas Distribuídos |  |      
  | Service Health | Informações de saúde do Azure, Serviços, Regiões e Recursos. |  |
  | SignalR Service | Funcionalidade Web em tempo real para aplicações sobre HTTP. |
- | Site Recovery | Replica workloads para um segundo local. |  |
+ | Site Recovery | Replica workloads para um segundo local. |• Pode replicar VMs VMware, Hyper-V, Servidores Físicos, Stack VMs. |
  | Speech | Fornece transcrisão de Fala para Texto, Texto para Fala e outras capacidades. | |
  | Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. |  |
  | Spot VMs | VMs para uso de capacidade inutilizada do Azure |  |
