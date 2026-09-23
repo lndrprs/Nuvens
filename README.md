@@ -43,7 +43,7 @@
  | App Configuration  | Gerenciamento Central de Aplicações |  |
  | App Service  | Plataforma para Aplicações Web, APIs e Back Ends para Mobiles |  |      
  | App Testing | Testes de performance e funcionais em alta escala.  |  |
- | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | • Fornece apenas Load Balancing Regional |
+ | Application Gateway | Load Balancer que ajuda a gerenciar o tráfego para as aplicações web. | • Fornece apenas Load Balancing Regional • Suporta AutoScaling, Round Robin e Cookie Based Session Affinity, HTTPS e TLS. |
  | Arc | Plataforma de gerenciamento e governança de data centers, múltiplas nuvens / multicloud e Edge. |  |
  | Artifacts | Armazenamento de pacotes como npm, NuGet, Maven, Cargo, etc.  |  |
  | Automation | Serviço de automação que ajuda a automatizar processos e suporta gerenciamento consistente através do Azure e ambientes não Azure. |  |
@@ -182,6 +182,7 @@
  | Synapse Analytics | Plataforma unificada de Data Warehousing e Big Data |  |
  | Table Storage | Armazenamento de dados NoSQL estruturados na Nuvem. |  |
  | Test Plans | Ferramentas para qualidade e colaboração durante processo de desenvolvimento. |  |
+ | Traffic Manager | Load Balancer global para aplicativos, baseado em DNS  | • Possui 6 métodos de Roteamento. • Possui Failover automático. • Suporta endpoints do Azure, Externos e On-Premises. |
  | Translator | Serviço para tradução de idioma. | 
  | Update Manager | Serviço que ajuda a gerenciar e governar atualizações para máquinas no Azure, On-Prem ou outras Nuvens. |  |
  | Virtual Desktop | Serviço de Virtualização de Desktop e App. |  |  
