@@ -223,6 +223,13 @@
  | On-Premises Data Gateway | Conecta serviços da nuvem, como Power BI, Power Automate, Logic Apps, para data sources locais. |  
  | Alerts | Característica do Azure Monitor para alertas. | 
  | Application Performance Management (APM) | Análises de performance das aplicações. Application Insights é usado para essa finalidade. |
+ | Resource Guard | Usado pelo Azure Backup para autorização adicional para Recovery Services Vault e Backup. | 
+ | Microsoft Azure Backup Server (MABS) | Solução on-premises integrada com o serviço de Backup. | 
+ | Microsot Azure Recovery Services Agent (MARS) | Usado para proteger servidores locais e aplicações. | 
+ | Budgets | Ferramenta para monitorar custos em projetos. | 
+ | Synapse Pipelines | Serviço de integração de dados que permite criação, agendamento e gerenciamento de pipelines de dados. | 
+ | App Roles | Define roles RBAC dentro do App Registration. | 
+
 
 <br>
 
