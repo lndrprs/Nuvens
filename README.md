@@ -213,8 +213,8 @@
 <br> 
 
  | Nome   | Serviço Configurável | Descrição |
- |---------|-----------|
- | Serializable Session State Storage  | | |  
+ |--------|----------------------|-----------|
+ | | | |  
 
 <br>
 
