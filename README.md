@@ -155,7 +155,7 @@
  | Power BI | Transformação de Dados em Relatórios e Dasbhboards |
  | Private Link | Permite acessar serviços PaaS através de um endpoint privado na rede virtual. |
  | Purview | Governança de Dados e Proteção. | 
- | Quantum  | Serviço de Computação Quântica |  
+ | Quantum  | Serviço de Computação Quântica. |  
  | Repos | Conjunto de ferramentas de controle de versionamento, para gerenciamento de código. | 
  | Resource Manager (ARM) Templates | Arquivo JSON que define infraestrutura e configuração do projeto. | 
  | Resource Mover | Movimentação de recursos Azure entre regiões. | 
@@ -168,8 +168,8 @@
  | Site Recovery | Replica workloads para um segundo local. |
  | Speech | Fornece transcrisão de Fala para Texto, Texto para Fala e outras capacidades. |
  | Sphere | Plataforma de aplicação com comunicação e segurança embutida, para dispositivos conectados na internet. | 
- | Spot VMs | VMs para uso de capacidade inutilizada do Azure |  
- | SQL Database | Banco de Dados PaaS | 
+ | Spot VMs | VMs para uso de capacidade inutilizada do Azure. |  
+ | SQL Database | Banco de Dados PaaSqie fornece cobrança por segunda. | 
  | SQL Server on VMs | Permite usar versão completa do SQL Server sem hardware on-prem. |
  | SRE Agent | Ajuda times a investigarem incidentes e a responder rapidamente. |
  | Stack Edge | Dispositivo de Hardware (Appliance), enviado da MS para instalações do cliente, levando processamento, armazenamento, e IA para a boarda da rede. |
@@ -229,7 +229,11 @@
  | Budgets | Ferramenta para monitorar custos em projetos. | 
  | Synapse Pipelines | Serviço de integração de dados que permite criação, agendamento e gerenciamento de pipelines de dados. | 
  | App Roles | Define roles RBAC dentro do App Registration. | 
-
+ | General Purpose | Serviço padrão para Azure SQL. |
+ | Basic | Nível de serviço de baixo custo e pequenos bancos de dados, com cargas leves. | 
+ | Business Critical | Modelo clusterizado do Azure SQL, com múltiplos processos de motores de banco de dados. Administração da infra. |
+ | Standard | Cargas médias, não serverless, cobrança não é por segundo. | 
+ | Hyperscale | Não possui Automatic Scaling. Cobrança por Réplicas. | 
 
 <br>
 
