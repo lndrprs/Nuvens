@@ -234,6 +234,23 @@
  | Business Critical | Modelo clusterizado do Azure SQL, com múltiplos processos de motores de banco de dados. Administração da infra. |
  | Standard | Cargas médias, não serverless, cobrança não é por segundo. | 
  | Hyperscale | Não possui Automatic Scaling. Cobrança por Réplicas. | 
+ | API Permissions | Permite o App acessar determinados recursos. | 
+ | Token Configuration | Customização de Claims | 
+ | Autoscale Profiles | Múltiplos perfis dentro da configuração de escalonamento para diferentes períodos. |
+ | Sign-In Frequency | Controle que permite definir por quantos dias o usuário não precisará logar  novamente depois que autenticou. |
+ | Persistent Browser Session | Permite usuários continuarem logados depois de fechar e abrir o navegador. | 
+ | User Risk | Engatilha MFA ou mudança de senha na probabilidade do usuário ter sido comprometido. | 
+ | Grant Controls | Define requisitos de segurança (checagens), que um usuário deve passar para ganhar acesso. | 
+ | Password Hash Syncronization (PHS) | Forma mais simples para habilitar identidade híbrida. | 
+ | Pass-Through Authentication (PTA) | Validação ocorre on-premises via Agente. | 
+ | Federation (AD FS) | Opção para autenticação mais complexa e cara. | 
+ | Unified Steup Tool | Instala componentes necessários para permitir replicação da AWS para Azure. | 
+ | Purchase Reservations Blade | Estima quanto custará para mudança de cobrança. |  
+ | extensionProfile | Dentro de um template, permite especificar extensões que serão instaladas nas VMs. | 
+ 
+
+
+
 
 <br>
 
