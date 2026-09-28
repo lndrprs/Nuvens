@@ -250,6 +250,9 @@
  | Migrate Appliance | Descoberta, avaliação e migração de VMs VMware ao Azure. | 
  | Data Collection Ruler (DCR) | Escopo para uma região e combinação de tipo de Log. |
  | Data Studio | Suporta cenários de migração com a extensão de migração SQL, permitindo migrações online de SQL Server para Azure SQL Managed Instance. |  
+ | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
+ | vCore Business Critical | Alta performance, baixa latência e alta disponibilidade através de múltiplas réplicas. | 
+ | Monitor Private Link Scope (AMPLS) | Permite ingestão segura e privada de logs ao Azure Monitor, via link privado. | 
  
 
 
