@@ -247,6 +247,9 @@
  | Unified Steup Tool | Instala componentes necessários para permitir replicação da AWS para Azure. | 
  | Purchase Reservations Blade | Estima quanto custará para mudança de cobrança. |  
  | extensionProfile | Dentro de um template, permite especificar extensões que serão instaladas nas VMs. | 
+ | Migrate Appliance | Descoberta, avaliação e migração de VMs VMware ao Azure. | 
+ | Data Collection Ruler (DCR) | Escopo para uma região e combinação de tipo de Log. |
+ | Data Studio | Suporta cenários de migração com a extensão de migração SQL, permitindo migrações online de SQL Server para Azure SQL Managed Instance. |  
  
 
 
