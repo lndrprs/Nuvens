@@ -262,6 +262,7 @@
  | MongoDB API | Baseado em documento. |
  | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
  | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
+ | DeployIfNotExists | Privisionamento de template ARM para remediação de recursos sem conformidade. | 
  
 
 
