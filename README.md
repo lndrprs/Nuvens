@@ -256,7 +256,12 @@
  | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
  | Service Principal | Método preferível de autenticação para aplicativos. | 
  | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
-
+ | System-Assigned Managed Identity | Identidades projetadas para autenticaçção de Recurso-para-Recurso. | 
+ | Application Registration | Para aplicações web que precisam de permissões delegadas. | 
+ | Cassandra API | Armazenamento NoSQL. | 
+ | MongoDB API | Baseado em documento. |
+ | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
+ | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
  
 
 
