@@ -263,7 +263,7 @@
  | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
  | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
  | DeployIfNotExists | Privisionamento de template ARM para remediação de recursos sem conformidade. | 
- 
+ | Change Feed | Permite restauração de blobs de um determinado tempo, rastreando as mudanças entre alterações. | 
 
 
 
