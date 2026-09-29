@@ -214,59 +214,56 @@
 
  | Nome   | Descrição |
  |--------|-----------|
- | Dynamic Data Masking (DDM)| Política de segurança que limita dados sensíveis, mascarando para usuários não privilegiados. |  
- | Multi-Site Listeners | Permite múltiplos hostnames serem servidos no mesmo Application Gateway ou Front Door. |
- | URL Path Based | Direciona o tráfego dentro de um mesmo domínio. (/finanças ou /vendas). |
- | CodeLens | Característica do Application Insights para verificar exceções em códigos. | 
- | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
- | Local Network Gateway | Representa o dispositivo On-Prem de VPN. |
- | On-Premises Data Gateway | Conecta serviços da nuvem, como Power BI, Power Automate, Logic Apps, para data sources locais. |  
- | Alerts | Característica do Azure Monitor para alertas. | 
- | Application Performance Management (APM) | Análises de performance das aplicações. Application Insights é usado para essa finalidade. |
- | Resource Guard | Usado pelo Azure Backup para autorização adicional para Recovery Services Vault e Backup. | 
- | Microsoft Azure Backup Server (MABS) | Solução on-premises integrada com o serviço de Backup. | 
- | Microsot Azure Recovery Services Agent (MARS) | Usado para proteger servidores locais e aplicações. | 
- | Budgets | Ferramenta para monitorar custos em projetos. | 
- | Synapse Pipelines | Serviço de integração de dados que permite criação, agendamento e gerenciamento de pipelines de dados. | 
- | App Roles | Define roles RBAC dentro do App Registration. | 
- | General Purpose | Serviço padrão para Azure SQL. |
- | Basic | Nível de serviço de baixo custo e pequenos bancos de dados, com cargas leves. | 
- | Business Critical | Modelo clusterizado do Azure SQL, com múltiplos processos de motores de banco de dados. Administração da infra. |
- | Standard | Cargas médias, não serverless, cobrança não é por segundo. | 
- | Hyperscale | Não possui Automatic Scaling. Cobrança por Réplicas. | 
- | API Permissions | Permite o App acessar determinados recursos. | 
- | Token Configuration | Customização de Claims | 
- | Autoscale Profiles | Múltiplos perfis dentro da configuração de escalonamento para diferentes períodos. |
- | Sign-In Frequency | Controle que permite definir por quantos dias o usuário não precisará logar  novamente depois que autenticou. |
- | Persistent Browser Session | Permite usuários continuarem logados depois de fechar e abrir o navegador. | 
- | User Risk | Engatilha MFA ou mudança de senha na probabilidade do usuário ter sido comprometido. | 
- | Grant Controls | Define requisitos de segurança (checagens), que um usuário deve passar para ganhar acesso. | 
- | Password Hash Syncronization (PHS) | Forma mais simples para habilitar identidade híbrida. | 
- | Pass-Through Authentication (PTA) | Validação ocorre on-premises via Agente. | 
- | Federation (AD FS) | Opção para autenticação mais complexa e cara. | 
- | Unified Steup Tool | Instala componentes necessários para permitir replicação da AWS para Azure. | 
- | Purchase Reservations Blade | Estima quanto custará para mudança de cobrança. |  
- | extensionProfile | Dentro de um template, permite especificar extensões que serão instaladas nas VMs. | 
- | Migrate Appliance | Descoberta, avaliação e migração de VMs VMware ao Azure. | 
- | Data Collection Ruler (DCR) | Escopo para uma região e combinação de tipo de Log. |
- | Data Studio | Suporta cenários de migração com a extensão de migração SQL, permitindo migrações online de SQL Server para Azure SQL Managed Instance. |  
- | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
- | vCore Business Critical | Alta performance, baixa latência e alta disponibilidade através de múltiplas réplicas. | 
- | Monitor Private Link Scope (AMPLS) | Permite ingestão segura e privada de logs ao Azure Monitor, via link privado. | 
- | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
- | Service Principal | Método preferível de autenticação para aplicativos. | 
- | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
- | System-Assigned Managed Identity | Identidades projetadas para autenticaçção de Recurso-para-Recurso. | 
- | Application Registration | Para aplicações web que precisam de permissões delegadas. | 
- | Cassandra API | Armazenamento NoSQL. | 
- | MongoDB API | Baseado em documento. |
- | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
- | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
- | DeployIfNotExists | Privisionamento de template ARM para remediação de recursos sem conformidade. | 
- | Change Feed | Permite restauração de blobs de um determinado tempo, rastreando as mudanças entre alterações. | 
-
-
-
+ | Alerts | Característica do Azure Monitor para alertas. | 
+ | API Permissions | Permite o App acessar determinados recursos. | 
+ | App Roles | Define roles RBAC dentro do App Registration. | 
+ | Application Performance Management (APM) | Análises de performance das aplicações. Application Insights é usado para essa finalidade. |
+ | Application Registration | Para aplicações web que precisam de permissões delegadas. | 
+ | Autoscale Profiles | Múltiplos perfis dentro da configuração de escalonamento para diferentes períodos. |
+ | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
+ | Basic | Nível de serviço de baixo custo e pequenos bancos de dados, com cargas leves. | 
+ | Budgets | Ferramenta para monitorar custos em projetos. | 
+ | Business Critical | Modelo clusterizado do Azure SQL, com múltiplos processos de motores de banco de dados. Administração da infra. |
+ | Cassandra API | Armazenamento NoSQL. | 
+ | Change Feed | Permite restauração de blobs de um determinado tempo, rastreando as mudanças entre alterações. | 
+ | CodeLens | Característica do Application Insights para verificar exceções em códigos. | 
+ | Data Collection Ruler (DCR) | Escopo para uma região e combinação de tipo de Log. |
+ | Data Studio | Suporta cenários de migração com a extensão de migração SQL, permitindo migrações online de SQL Server para Azure SQL Managed Instance. |  
+ | DeployIfNotExists | Privisionamento de template ARM para remediação de recursos sem conformidade. | 
+ | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
+ | Dynamic Data Masking (DDM)| Política de segurança que limita dados sensíveis, mascarando para usuários não privilegiados. |  
+ | extensionProfile | Dentro de um template, permite especificar extensões que serão instaladas nas VMs. | 
+ | Federation (AD FS) | Opção para autenticação mais complexa e cara. | 
+ | General Purpose | Serviço padrão para Azure SQL. |
+ | Grant Controls | Define requisitos de segurança (checagens), que um usuário deve passar para ganhar acesso. | 
+ | Hyperscale | Não possui Automatic Scaling. Cobrança por Réplicas. | 
+ | Local Network Gateway | Representa o dispositivo On-Prem de VPN. |
+ | Microsoft Azure Backup Server (MABS) | Solução on-premises integrada com o serviço de Backup. | 
+ | Microsot Azure Recovery Services Agent (MARS) | Usado para proteger servidores locais e aplicações. | 
+ | Migrate Appliance | Descoberta, avaliação e migração de VMs VMware ao Azure. | 
+ | MongoDB API | Baseado em documento. |
+ | Monitor Private Link Scope (AMPLS) | Permite ingestão segura e privada de logs ao Azure Monitor, via link privado. | 
+ | Multi-Site Listeners | Permite múltiplos hostnames serem servidos no mesmo Application Gateway ou Front Door. |
+ | On-Premises Data Gateway | Conecta serviços da nuvem, como Power BI, Power Automate, Logic Apps, para data sources locais. |  
+ | Pass-Through Authentication (PTA) | Validação ocorre on-premises via Agente. | 
+ | Password Hash Syncronization (PHS) | Forma mais simples para habilitar identidade híbrida. | 
+ | Persistent Browser Session | Permite usuários continuarem logados depois de fechar e abrir o navegador. | 
+ | Purchase Reservations Blade | Estima quanto custará para mudança de cobrança. |  
+ | Resource Guard | Usado pelo Azure Backup para autorização adicional para Recovery Services Vault e Backup. | 
+ | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
+ | Service Principal | Método preferível de autenticação para aplicativos. | 
+ | Sign-In Frequency | Controle que permite definir por quantos dias o usuário não precisará logar  novamente depois que autenticou. |
+ | Standard | Cargas médias, não serverless, cobrança não é por segundo. | 
+ | Synapse Pipelines | Serviço de integração de dados que permite criação, agendamento e gerenciamento de pipelines de dados. | 
+ | System-Assigned Managed Identity | Identidades projetadas para autenticaçção de Recurso-para-Recurso. | 
+ | Token Configuration | Customização de Claims | 
+ | Unified Steup Tool | Instala componentes necessários para permitir replicação da AWS para Azure. | 
+ | URL Path Based | Direciona o tráfego dentro de um mesmo domínio. (/finanças ou /vendas). |
+ | User Risk | Engatilha MFA ou mudança de senha na probabilidade do usuário ter sido comprometido. | 
+ | vCore Business Critical | Alta performance, baixa latência e alta disponibilidade através de múltiplas réplicas. | 
+ | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
+ | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
+ | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
 
 <br>
 
