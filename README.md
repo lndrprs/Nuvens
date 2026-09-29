@@ -254,7 +254,8 @@
  | vCore Business Critical | Alta performance, baixa latência e alta disponibilidade através de múltiplas réplicas. | 
  | Monitor Private Link Scope (AMPLS) | Permite ingestão segura e privada de logs ao Azure Monitor, via link privado. | 
  | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
- | Service Principal |  
+ | Service Principal | Método preferível de autenticação para aplicativos. | 
+ | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
 
  
 
