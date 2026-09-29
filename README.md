@@ -253,6 +253,9 @@
  | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
  | vCore Business Critical | Alta performance, baixa latência e alta disponibilidade através de múltiplas réplicas. | 
  | Monitor Private Link Scope (AMPLS) | Permite ingestão segura e privada de logs ao Azure Monitor, via link privado. | 
+ | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
+ | Service Principal |  
+
  
 
 
