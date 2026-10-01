@@ -264,6 +264,11 @@
  | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
  | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
  | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
+ | Auto-FAilover Group | Pode ser manual ou automática, e permite gerenciar a replicação de um grupo de BDs ou todos os BDs. | 
+ | Data Box Disk | Suporta armazenamento de 35 TBs, e USB 3.0. Não necessita de energia externa. |
+ | Data Box Heavy | Até 1PB, necessário energia externa. | 
+ | Data Box | Suporta 80 TB de armazenamento, não possui interface USB. | 
+
 
 <br>
 
