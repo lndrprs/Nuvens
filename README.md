@@ -219,6 +219,7 @@
 | App Roles | Define roles RBAC dentro do App Registration. | 
 | Application Performance Management (APM) | Análises de performance das aplicações. Application Insights é usado para essa finalidade. |
 | Application Registration | Para aplicações web que precisam de permissões delegadas. | 
+| Auto-Failover Group | Pode ser manual ou automática, e permite gerenciar a replicação de um grupo de BDs ou todos os BDs. | 
 | Autoscale Profiles | Múltiplos perfis dentro da configuração de escalonamento para diferentes períodos. |
 | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
 | Basic | Nível de serviço de baixo custo e pequenos bancos de dados, com cargas leves. | 
@@ -227,6 +228,9 @@
 | Cassandra API | Armazenamento NoSQL. | 
 | Change Feed | Permite restauração de blobs de um determinado tempo, rastreando as mudanças entre alterações. | 
 | CodeLens | Característica do Application Insights para verificar exceções em códigos. | 
+| Data Box | Suporta 80 TB de armazenamento, não possui interface USB. | 
+| Data Box Disk | Suporta armazenamento de 35 TBs, e USB 3.0. Não necessita de energia externa. |
+| Data Box Heavy | Até 1PB, necessário energia externa. | 
 | Data Collection Ruler (DCR) | Escopo para uma região e combinação de tipo de Log. |
 | Data Studio | Suporta cenários de migração com a extensão de migração SQL, permitindo migrações online de SQL Server para Azure SQL Managed Instance. |  
 | DeployIfNotExists | Privisionamento de template ARM para remediação de recursos sem conformidade. | 
@@ -264,11 +268,6 @@
 | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
 | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
 | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
-| Auto-Failover Group | Pode ser manual ou automática, e permite gerenciar a replicação de um grupo de BDs ou todos os BDs. | 
-| Data Box Disk | Suporta armazenamento de 35 TBs, e USB 3.0. Não necessita de energia externa. |
-| Data Box Heavy | Até 1PB, necessário energia externa. | 
-| Data Box | Suporta 80 TB de armazenamento, não possui interface USB. | 
-
 
 <br>
 
