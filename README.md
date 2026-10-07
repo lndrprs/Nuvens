@@ -302,6 +302,9 @@
 | Pipeline Caching | Guarda Arquivos que não mudam entre execuções. |
 | Pipeline Artifacts | Guardam a saíde de um pipeline (Binários, pacotes, relatórios), para serem usados em etapas posteriores ou em releases. | 
 | Capability Maturity Model Integration (CMMI) | Processo rigoroso voltado a auditoria e rastreabilidade. | 
+| Feature Flags | Permite ativar ou desativar recursos para conjuntos de usuários. |
+| Deployment Rings | Atualizações são aplicadas em pequenos grupos, até a completude. |
+| Blue / Green Deployment | Troca de tráfego entre dois ambientes idênticos. | 
 
 
 
