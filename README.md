@@ -305,7 +305,7 @@
 | Feature Flags | Permite ativar ou desativar recursos para conjuntos de usuários. |
 | Deployment Rings | Atualizações são aplicadas em pequenos grupos, até a completude. |
 | Blue / Green Deployment | Troca de tráfego entre dois ambientes idênticos. | 
-
+| Service Hook | Notificação em serviços externos. |
 
 
 
