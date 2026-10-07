@@ -271,6 +271,14 @@
 | Bamboo | Ferramenta da Atlassian para CI/CD. |
 | Travis | Ferramenta CI/CD. | 
 | Artifacts | No Azure, permite trabalhar com pacotes Maven, NPM e NuGet. |
+| Fork | Cópia de um repositório. | 
+| Maven | Gerenciador de pacotes do ecossistema Java. |
+| npm | Gerenciador de pacotes do JaveScript / Node.js. | 
+| Chocolatey | Gerenciador de pacotes para instalar softwares no Windows. | 
+| NuGet | Gerenciador de pacotes do .Net. | 
+| Smart Detection | Avisa automaticamente sobre problemas de performance e falhas na aplicação Web. | 
+| Personal Access Token (PAT) | Suportado no Azure Pipelines e TFS 2017+. Token para authenticação. | 
+
 
 
 <br>
