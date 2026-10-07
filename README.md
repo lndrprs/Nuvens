@@ -268,6 +268,10 @@
 | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
 | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
 | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
+| Bamboo | Ferramenta da Atlassian para CI/CD. |
+| Travis | Ferramenta CI/CD. | 
+| Artifacts | No Azure, permite trabalhar com pacotes Maven, NPM e NuGet. |
+
 
 <br>
 
