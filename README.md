@@ -278,6 +278,29 @@
 | NuGet | Gerenciador de pacotes do .Net. | 
 | Smart Detection | Avisa automaticamente sobre problemas de performance e falhas na aplicação Web. | 
 | Personal Access Token (PAT) | Suportado no Azure Pipelines e TFS 2017+. Token para authenticação. | 
+| Black Duck | Ferramenta de SCA (Software Composition Analysis). Examina bibliotecas e dependências Open SOurce usadas no projeto e identifica Licenciamento, Vulnerabilidades e Qualidade / Manutenção. | 
+| Parallel Testing | Executar testes ao mesmo tempo, em várias máquinas ou agentes para redução do tempo de execução. |
+| UI Testing | Testes que simulam a interação com a interface do usuário. |
+| Test Impact Analysis (TIA) | Identifica quais testes rodar, com base nas mudanças feitas no códigos. |
+| Flaky Testing | Teste que dá resultados inconsistentes. |
+| Deployment Status | Resultado dos deployments de uma release (sucesso, falha, em andamento), em cada ambiente. Não mede tempo de work items. |
+| Sprint Capacity | Mostra a capacidade da equipe na sprint (Horas disponíveis, dias de folga), em comparação com o trabalho planejado. |
+| Cycle Time | Mede o tempo desde que o trabalho começou. Do "In Progress" até a conclusão. |
+| Lead Time | Mede o tempo desde a criação do work item até a conclusão. |
+| Branch Lock | Somente leitura. Sem Push - para congelamento. |
+| Branch Policies | Regras aplicadas que impedem push direto e existem Pull Request. |
+| Branch Security | Controla permissões de usuários e grupos. |
+| Liveness Probe | Ferramenta de diagnóstico para verificar a saúde de um contêiner e determinar se é executado apropriadamente. |
+| Desired State Configuration | Garante que todas as VMs mantenham uma configuração uniforme. |
+| Minor Version | Nova Funcionalidade que continua compatível com as versões anteriores. |
+| Major Version | Mudanças Incompatíveis. |
+| Patch | Correção de Bug compatível com versões anteriores, sem funcionalidades novas. | 
+| Git Locking | Bloqueia um arquivo para que só uma pessoa edite por vez. |
+| Git Squash Merge | Junta todos os commits de uma branch em um único commit ao fazer merge. |
+| Git LFS (Large File Storage) | Guarda arquivos grandes, como áudio, vídeo, imagens pesadas, binários. | 
+| Git Merge | Une conteúdo de uma branch em outra. |
+ 
+
 
 
 
