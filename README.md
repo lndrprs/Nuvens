@@ -299,7 +299,10 @@
 | Git Squash Merge | Junta todos os commits de uma branch em um único commit ao fazer merge. |
 | Git LFS (Large File Storage) | Guarda arquivos grandes, como áudio, vídeo, imagens pesadas, binários. | 
 | Git Merge | Une conteúdo de uma branch em outra. |
- 
+| Pipeline Caching | Guarda Arquivos que não mudam entre execuções. |
+| Pipeline Artifacts | Guardam a saíde de um pipeline (Binários, pacotes, relatórios), para serem usados em etapas posteriores ou em releases. | 
+| Capability Maturity Model Integration (CMMI) | Processo rigoroso voltado a auditoria e rastreabilidade. | 
+
 
 
 
