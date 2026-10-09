@@ -309,6 +309,8 @@
 | Release Annotations | Marcações de eventos de provisionamento. |
 | Snapshot Debugger | Captura estado do runtime durante exceções, para debugs. |
 | Funnels | Análise de comportamento de usuários. | 
+| Test Plans | Designado para gerenciar e armazenar casos de testes, resultados dos testes e logs deles. |
+
 
 
 
