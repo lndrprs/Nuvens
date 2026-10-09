@@ -306,6 +306,10 @@
 | Deployment Rings | Atualizações são aplicadas em pequenos grupos, até a completude. |
 | Blue / Green Deployment | Troca de tráfego entre dois ambientes idênticos. | 
 | Service Hook | Notificação em serviços externos. |
+| Continuous Monitoring | Integra telemetria do Application Insights na pipeline. |
+| Release Annotations | Marcações de eventos de provisionamento. |
+| Snapshot Debugger | Captura estado do runtime durante exceções, para debugs. |
+| Funnels | Análise de comportamento de usuários. | 
 
 
 
