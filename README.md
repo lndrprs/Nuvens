@@ -310,6 +310,10 @@
 | Snapshot Debugger | Captura estado do runtime durante exceções, para debugs. |
 | Funnels | Análise de comportamento de usuários. | 
 | Test Plans | Designado para gerenciar e armazenar casos de testes, resultados dos testes e logs deles. |
+| Deployment Gate | Validação automática de condições externas, incluindo conformidade com Azure Policy. |
+| Deployment Trigger | Define quando o release é iniciado. |
+| Deployment Approval | Exigência para que uma pessoa aprove manualmente antes da continuação. | 
+
 
 
 
