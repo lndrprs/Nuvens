@@ -313,6 +313,7 @@
 | Deployment Gate | Validação automática de condições externas, incluindo conformidade com Azure Policy. |
 | Deployment Trigger | Define quando o release é iniciado. |
 | Deployment Approval | Exigência para que uma pessoa aprove manualmente antes da continuação. | 
+| Liveness Probe | Verificação de execuções apropriadas de aplicações. |
 
 
 
