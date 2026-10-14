@@ -219,48 +219,96 @@
 | App Roles | Define roles RBAC dentro do App Registration. | 
 | Application Performance Management (APM) | Análises de performance das aplicações. Application Insights é usado para essa finalidade. |
 | Application Registration | Para aplicações web que precisam de permissões delegadas. | 
+| Artifacts | No Azure, permite trabalhar com pacotes Maven, NPM e NuGet. |
 | Auto-Failover Group | Pode ser manual ou automática, e permite gerenciar a replicação de um grupo de BDs ou todos os BDs. | 
 | Autoscale Profiles | Múltiplos perfis dentro da configuração de escalonamento para diferentes períodos. |
 | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
+| Bamboo | Ferramenta da Atlassian para CI/CD. |
 | Basic | Nível de serviço de baixo custo e pequenos bancos de dados, com cargas leves. | 
+| Black Duck | Ferramenta de SCA (Software Composition Analysis). Examina bibliotecas e dependências Open SOurce usadas no projeto e identifica Licenciamento, Vulnerabilidades e Qualidade / Manutenção. | 
+| Blue / Green Deployment | Troca de tráfego entre dois ambientes idênticos. | 
+| Branch Lock | Somente leitura. Sem Push - para congelamento. |
+| Branch Policies | Regras aplicadas que impedem push direto e existem Pull Request. |
+| Branch Security | Controla permissões de usuários e grupos. |
 | Budgets | Ferramenta para monitorar custos em projetos. | 
 | Business Critical | Modelo clusterizado do Azure SQL, com múltiplos processos de motores de banco de dados. Administração da infra. |
+| Capability Maturity Model Integration (CMMI) | Processo rigoroso voltado a auditoria e rastreabilidade. | 
 | Cassandra API | Armazenamento NoSQL. | 
 | Change Feed | Permite restauração de blobs de um determinado tempo, rastreando as mudanças entre alterações. | 
+| Chocolatey | Gerenciador de pacotes para instalar softwares no Windows. | 
 | CodeLens | Característica do Application Insights para verificar exceções em códigos. | 
+| Continuous Monitoring | Integra telemetria do Application Insights na pipeline. |
+| Cycle Time | Mede o tempo desde que o trabalho começou. Do "In Progress" até a conclusão. |
 | Data Box | Suporta 80 TB de armazenamento, não possui interface USB. | 
 | Data Box Disk | Suporta armazenamento de 35 TBs, e USB 3.0. Não necessita de energia externa. |
 | Data Box Heavy | Até 1PB, necessário energia externa. | 
 | Data Collection Ruler (DCR) | Escopo para uma região e combinação de tipo de Log. |
 | Data Studio | Suporta cenários de migração com a extensão de migração SQL, permitindo migrações online de SQL Server para Azure SQL Managed Instance. |  
 | DeployIfNotExists | Privisionamento de template ARM para remediação de recursos sem conformidade. | 
+| Deployment Approval | Exigência para que uma pessoa aprove manualmente antes da continuação. | 
+| Deployment Gate | Validação automática de condições externas, incluindo conformidade com Azure Policy. |
+| Deployment Pools | Gerenciamento de provisionamentos entre múltiplas máquinas / servidores. |
+| Deployment Rings | Atualizações são aplicadas em pequenos grupos, até a completude. |
 | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
+| Deployment Status | Resultado dos deployments de uma release (sucesso, falha, em andamento), em cada ambiente. Não mede tempo de work items. |
+| Deployment Trigger | Define quando o release é iniciado. |
+| Desired State Configuration | Garante que todas as VMs mantenham uma configuração uniforme. |
 | Dynamic Data Masking (DDM)| Política de segurança que limita dados sensíveis, mascarando para usuários não privilegiados. |  
 | extensionProfile | Dentro de um template, permite especificar extensões que serão instaladas nas VMs. | 
+| Feature Flags | Permite ativar ou desativar recursos para conjuntos de usuários. |
 | Federation (AD FS) | Opção para autenticação mais complexa e cara. | 
+| Feed | Contêiner para pacotes / packages. | 
+| Flaky Testing | Teste que dá resultados inconsistentes. |
+| Fork | Cópia de um repositório. | 
+| Funnels | Análise de comportamento de usuários. | 
 | General Purpose | Serviço padrão para Azure SQL. |
+| Git LFS (Large File Storage) | Guarda arquivos grandes, como áudio, vídeo, imagens pesadas, binários. | 
+| Git Locking | Bloqueia um arquivo para que só uma pessoa edite por vez. |
+| Git Merge | Une conteúdo de uma branch em outra. |
+| Git Squash Merge | Junta todos os commits de uma branch em um único commit ao fazer merge. |
 | Grant Controls | Define requisitos de segurança (checagens), que um usuário deve passar para ganhar acesso. | 
 | Hyperscale | Não possui Automatic Scaling. Cobrança por Réplicas. | 
+| Lead Time | Mede o tempo desde a criação do work item até a conclusão. |
+| Liveness Probe | Ferramenta de diagnóstico para verificar a saúde de um contêiner e determinar se é executado apropriadamente. |
+| Liveness Probe | Verificação de execuções apropriadas de aplicações. |
 | Local Network Gateway | Representa o dispositivo On-Prem de VPN. |
+| Major Version | Mudanças Incompatíveis. |
+| Maven | Gerenciador de pacotes do ecossistema Java. |
 | Microsoft Azure Backup Server (MABS) | Solução on-premises integrada com o serviço de Backup. | 
 | Microsot Azure Recovery Services Agent (MARS) | Usado para proteger servidores locais e aplicações. | 
 | Migrate Appliance | Descoberta, avaliação e migração de VMs VMware ao Azure. | 
+| Minor Version | Nova Funcionalidade que continua compatível com as versões anteriores. |
 | MongoDB API | Baseado em documento. |
 | Monitor Private Link Scope (AMPLS) | Permite ingestão segura e privada de logs ao Azure Monitor, via link privado. | 
 | Multi-Site Listeners | Permite múltiplos hostnames serem servidos no mesmo Application Gateway ou Front Door. |
+| npm | Gerenciador de pacotes do JaveScript / Node.js. | 
+| NuGet | Gerenciador de pacotes do .Net. | 
 | On-Premises Data Gateway | Conecta serviços da nuvem, como Power BI, Power Automate, Logic Apps, para data sources locais. |  
+| Parallel Testing | Executar testes ao mesmo tempo, em várias máquinas ou agentes para redução do tempo de execução. |
 | Pass-Through Authentication (PTA) | Validação ocorre on-premises via Agente. | 
 | Password Hash Syncronization (PHS) | Forma mais simples para habilitar identidade híbrida. | 
+| Patch | Correção de Bug compatível com versões anteriores, sem funcionalidades novas. | 
 | Persistent Browser Session | Permite usuários continuarem logados depois de fechar e abrir o navegador. | 
+| Personal Access Token (PAT) | Suportado no Azure Pipelines e TFS 2017+. Token para authenticação. | 
+| Pipeline Artifacts | Guardam a saíde de um pipeline (Binários, pacotes, relatórios), para serem usados em etapas posteriores ou em releases. | 
+| Pipeline Caching | Guarda Arquivos que não mudam entre execuções. |
 | Purchase Reservations Blade | Estima quanto custará para mudança de cobrança. |  
+| Release Annotations | Marcações de eventos de provisionamento. |
 | Resource Guard | Usado pelo Azure Backup para autorização adicional para Recovery Services Vault e Backup. | 
 | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
 | Service Principal | Método preferível de autenticação para aplicativos. | 
 | Sign-In Frequency | Controle que permite definir por quantos dias o usuário não precisará logar  novamente depois que autenticou. |
+| Smart Detection | Avisa automaticamente sobre problemas de performance e falhas na aplicação Web. | 
+| Snapshot Debugger | Captura estado do runtime durante exceções, para debugs. |
+| Sprint Capacity | Mostra a capacidade da equipe na sprint (Horas disponíveis, dias de folga), em comparação com o trabalho planejado. |
 | Standard | Cargas médias, não serverless, cobrança não é por segundo. | 
 | Synapse Pipelines | Serviço de integração de dados que permite criação, agendamento e gerenciamento de pipelines de dados. | 
 | System-Assigned Managed Identity | Identidades projetadas para autenticaçção de Recurso-para-Recurso. | 
+| Test Impact Analysis (TIA) | Identifica quais testes rodar, com base nas mudanças feitas no códigos. |
+| Test Plans | Designado para gerenciar e armazenar casos de testes, resultados dos testes e logs deles. |
 | Token Configuration | Customização de Claims | 
+| Travis | Ferramenta CI/CD. | 
+| UI Testing | Testes que simulam a interação com a interface do usuário. |
 | Unified Steup Tool | Instala componentes necessários para permitir replicação da AWS para Azure. | 
 | URL Path Based | Direciona o tráfego dentro de um mesmo domínio. (/finanças ou /vendas). |
 | User Risk | Engatilha MFA ou mudança de senha na probabilidade do usuário ter sido comprometido. | 
@@ -268,54 +316,7 @@
 | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
 | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
 | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
-| Bamboo | Ferramenta da Atlassian para CI/CD. |
-| Travis | Ferramenta CI/CD. | 
-| Artifacts | No Azure, permite trabalhar com pacotes Maven, NPM e NuGet. |
-| Fork | Cópia de um repositório. | 
-| Maven | Gerenciador de pacotes do ecossistema Java. |
-| npm | Gerenciador de pacotes do JaveScript / Node.js. | 
-| Chocolatey | Gerenciador de pacotes para instalar softwares no Windows. | 
-| NuGet | Gerenciador de pacotes do .Net. | 
-| Smart Detection | Avisa automaticamente sobre problemas de performance e falhas na aplicação Web. | 
-| Personal Access Token (PAT) | Suportado no Azure Pipelines e TFS 2017+. Token para authenticação. | 
-| Black Duck | Ferramenta de SCA (Software Composition Analysis). Examina bibliotecas e dependências Open SOurce usadas no projeto e identifica Licenciamento, Vulnerabilidades e Qualidade / Manutenção. | 
-| Parallel Testing | Executar testes ao mesmo tempo, em várias máquinas ou agentes para redução do tempo de execução. |
-| UI Testing | Testes que simulam a interação com a interface do usuário. |
-| Test Impact Analysis (TIA) | Identifica quais testes rodar, com base nas mudanças feitas no códigos. |
-| Flaky Testing | Teste que dá resultados inconsistentes. |
-| Deployment Status | Resultado dos deployments de uma release (sucesso, falha, em andamento), em cada ambiente. Não mede tempo de work items. |
-| Sprint Capacity | Mostra a capacidade da equipe na sprint (Horas disponíveis, dias de folga), em comparação com o trabalho planejado. |
-| Cycle Time | Mede o tempo desde que o trabalho começou. Do "In Progress" até a conclusão. |
-| Lead Time | Mede o tempo desde a criação do work item até a conclusão. |
-| Branch Lock | Somente leitura. Sem Push - para congelamento. |
-| Branch Policies | Regras aplicadas que impedem push direto e existem Pull Request. |
-| Branch Security | Controla permissões de usuários e grupos. |
-| Liveness Probe | Ferramenta de diagnóstico para verificar a saúde de um contêiner e determinar se é executado apropriadamente. |
-| Desired State Configuration | Garante que todas as VMs mantenham uma configuração uniforme. |
-| Minor Version | Nova Funcionalidade que continua compatível com as versões anteriores. |
-| Major Version | Mudanças Incompatíveis. |
-| Patch | Correção de Bug compatível com versões anteriores, sem funcionalidades novas. | 
-| Git Locking | Bloqueia um arquivo para que só uma pessoa edite por vez. |
-| Git Squash Merge | Junta todos os commits de uma branch em um único commit ao fazer merge. |
-| Git LFS (Large File Storage) | Guarda arquivos grandes, como áudio, vídeo, imagens pesadas, binários. | 
-| Git Merge | Une conteúdo de uma branch em outra. |
-| Pipeline Caching | Guarda Arquivos que não mudam entre execuções. |
-| Pipeline Artifacts | Guardam a saíde de um pipeline (Binários, pacotes, relatórios), para serem usados em etapas posteriores ou em releases. | 
-| Capability Maturity Model Integration (CMMI) | Processo rigoroso voltado a auditoria e rastreabilidade. | 
-| Feature Flags | Permite ativar ou desativar recursos para conjuntos de usuários. |
-| Deployment Rings | Atualizações são aplicadas em pequenos grupos, até a completude. |
-| Blue / Green Deployment | Troca de tráfego entre dois ambientes idênticos. | 
-| Continuous Monitoring | Integra telemetria do Application Insights na pipeline. |
-| Release Annotations | Marcações de eventos de provisionamento. |
-| Snapshot Debugger | Captura estado do runtime durante exceções, para debugs. |
-| Funnels | Análise de comportamento de usuários. | 
-| Test Plans | Designado para gerenciar e armazenar casos de testes, resultados dos testes e logs deles. |
-| Deployment Gate | Validação automática de condições externas, incluindo conformidade com Azure Policy. |
-| Deployment Trigger | Define quando o release é iniciado. |
-| Deployment Approval | Exigência para que uma pessoa aprove manualmente antes da continuação. | 
-| Liveness Probe | Verificação de execuções apropriadas de aplicações. |
-| Deployment Pools | Gerenciamento de provisionamentos entre múltiplas máquinas / servidores. |
-| Feed | Contêiner para pacotes / packages. | 
+| Self-Hosted Agent | Agentes hospedados pelo próprio usuário, para execução de jobs. | 
 
 
 
