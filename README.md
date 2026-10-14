@@ -314,6 +314,8 @@
 | Deployment Trigger | Define quando o release é iniciado. |
 | Deployment Approval | Exigência para que uma pessoa aprove manualmente antes da continuação. | 
 | Liveness Probe | Verificação de execuções apropriadas de aplicações. |
+| Deployment Pools | Gerenciamento de provisionamentos entre múltiplas máquinas / servidores. |
+| Feed | Contêiner para pacotes / packages. | 
 
 
 
