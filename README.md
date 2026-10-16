@@ -324,6 +324,8 @@
 | azrepos signout | Deslogar do Azure Repos. |
 | azrepos feedback | Reportar um problema ou sugerir recursos. |
 | azrepos unsubscribe all | Remover todos os repositórios de um projeto e suas inscrições de um canal. | 
+| Source Control Integration | Manter runkbooks atualizados com o repositório do Github / Azure Repos. | 
+
 
 
 
