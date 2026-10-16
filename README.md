@@ -317,6 +317,14 @@
 | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
 | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
 | Self-Hosted Agent | Agentes hospedados pelo próprio usuário, para execução de jobs. | 
+| Stakeholder Access | Permite prover feedbacks e responder a feedbacks. | 
+| azrepos subscribe | Inscrever um / todos repositórios de um projeto para receber notificações. |  
+| azrepos subscriptions | Adicionar ou removar subscriptions no canal. |
+| azrepos signin | Logar no Azure Repos. |
+| azrepos signout | Deslogar do Azure Repos. |
+| azrepos feedback | Reportar um problema ou sugerir recursos. |
+| azrepos unsubscribe all | Remover todos os repositórios de um projeto e suas inscrições de um canal. | 
+
 
 
 
