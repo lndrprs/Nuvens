@@ -324,8 +324,10 @@
 | azrepos signout | Deslogar do Azure Repos. |
 | azrepos feedback | Reportar um problema ou sugerir recursos. |
 | azrepos unsubscribe all | Remover todos os repositórios de um projeto e suas inscrições de um canal. | 
-| Source Control Integration | Manter runkbooks atualizados com o repositório do Github / Azure Repos. | 
-
+| Source Control Integration | Conexão entre sistema de controle de versão e outras ferramentas do fluxo de desenvolvimento. | 
+| Cobertura | Ferramenta para cobertura de código Java. | 
+| DevTest Labs | Projetado para minimizar custos automaticamente, gerenciando ciclos de vida de VMs. |
+| Desired State Configuration (DSC) | Manter consistência para VM's, plataforma nativa do Windows. |  
 
 
 
