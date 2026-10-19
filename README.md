@@ -223,6 +223,12 @@
 | Auto-Failover Group | Pode ser manual ou automática, e permite gerenciar a replicação de um grupo de BDs ou todos os BDs. | 
 | Autoscale Profiles | Múltiplos perfis dentro da configuração de escalonamento para diferentes períodos. |
 | Avro | Event Hub escreve o dado do evento no formaato Apache Avro. | 
+| azrepos feedback | Reportar um problema ou sugerir recursos. |
+| azrepos signin | Logar no Azure Repos. |
+| azrepos signout | Deslogar do Azure Repos. |
+| azrepos subscribe | Inscrever um / todos repositórios de um projeto para receber notificações. |  
+| azrepos subscriptions | Adicionar ou removar subscriptions no canal. |
+| azrepos unsubscribe all | Remover todos os repositórios de um projeto e suas inscrições de um canal. | 
 | Bamboo | Ferramenta da Atlassian para CI/CD. |
 | Basic | Nível de serviço de baixo custo e pequenos bancos de dados, com cargas leves. | 
 | Black Duck | Ferramenta de SCA (Software Composition Analysis). Examina bibliotecas e dependências Open SOurce usadas no projeto e identifica Licenciamento, Vulnerabilidades e Qualidade / Manutenção. | 
@@ -236,6 +242,7 @@
 | Cassandra API | Armazenamento NoSQL. | 
 | Change Feed | Permite restauração de blobs de um determinado tempo, rastreando as mudanças entre alterações. | 
 | Chocolatey | Gerenciador de pacotes para instalar softwares no Windows. | 
+| Cobertura | Ferramenta para cobertura de código Java. | 
 | CodeLens | Característica do Application Insights para verificar exceções em códigos. | 
 | Continuous Monitoring | Integra telemetria do Application Insights na pipeline. |
 | Cycle Time | Mede o tempo desde que o trabalho começou. Do "In Progress" até a conclusão. |
@@ -252,7 +259,9 @@
 | Deployment Slots | Provisionamento de novas versões das aplicações antes de serem utilizadas em produção. | 
 | Deployment Status | Resultado dos deployments de uma release (sucesso, falha, em andamento), em cada ambiente. Não mede tempo de work items. |
 | Deployment Trigger | Define quando o release é iniciado. |
+| Desired State Configuration (DSC) | Manter consistência para VM's, plataforma nativa do Windows. |  
 | Desired State Configuration | Garante que todas as VMs mantenham uma configuração uniforme. |
+| DevTest Labs | Projetado para minimizar custos automaticamente, gerenciando ciclos de vida de VMs. |
 | Dynamic Data Masking (DDM)| Política de segurança que limita dados sensíveis, mascarando para usuários não privilegiados. |  
 | extensionProfile | Dentro de um template, permite especificar extensões que serão instaladas nas VMs. | 
 | Feature Flags | Permite ativar ou desativar recursos para conjuntos de usuários. |
@@ -296,11 +305,14 @@
 | Release Annotations | Marcações de eventos de provisionamento. |
 | Resource Guard | Usado pelo Azure Backup para autorização adicional para Recovery Services Vault e Backup. | 
 | Resource Tokens | Acesso granular e com tempo limite para contêineres ou documentos específicos. | 
+| Self-Hosted Agent | Agentes hospedados pelo próprio usuário, para execução de jobs. | 
 | Service Principal | Método preferível de autenticação para aplicativos. | 
 | Sign-In Frequency | Controle que permite definir por quantos dias o usuário não precisará logar  novamente depois que autenticou. |
 | Smart Detection | Avisa automaticamente sobre problemas de performance e falhas na aplicação Web. | 
 | Snapshot Debugger | Captura estado do runtime durante exceções, para debugs. |
+| Source Control Integration | Conexão entre sistema de controle de versão e outras ferramentas do fluxo de desenvolvimento. | 
 | Sprint Capacity | Mostra a capacidade da equipe na sprint (Horas disponíveis, dias de folga), em comparação com o trabalho planejado. |
+| Stakeholder Access | Permite prover feedbacks e responder a feedbacks. | 
 | Standard | Cargas médias, não serverless, cobrança não é por segundo. | 
 | Synapse Pipelines | Serviço de integração de dados que permite criação, agendamento e gerenciamento de pipelines de dados. | 
 | System-Assigned Managed Identity | Identidades projetadas para autenticaçção de Recurso-para-Recurso. | 
@@ -316,18 +328,7 @@
 | vCore General Purpose | Suporta pausar / resumir o banco de dados se baseando em atividade. | 
 | Virtual Network Gateway | VPN executado na Azure para enviar e receber tráfego criptografado. |
 | Virtual WAN's Anycast IP | Permite que usuários móveis sejam roteados para o VPN Gateway mais próximo. | 
-| Self-Hosted Agent | Agentes hospedados pelo próprio usuário, para execução de jobs. | 
-| Stakeholder Access | Permite prover feedbacks e responder a feedbacks. | 
-| azrepos subscribe | Inscrever um / todos repositórios de um projeto para receber notificações. |  
-| azrepos subscriptions | Adicionar ou removar subscriptions no canal. |
-| azrepos signin | Logar no Azure Repos. |
-| azrepos signout | Deslogar do Azure Repos. |
-| azrepos feedback | Reportar um problema ou sugerir recursos. |
-| azrepos unsubscribe all | Remover todos os repositórios de um projeto e suas inscrições de um canal. | 
-| Source Control Integration | Conexão entre sistema de controle de versão e outras ferramentas do fluxo de desenvolvimento. | 
-| Cobertura | Ferramenta para cobertura de código Java. | 
-| DevTest Labs | Projetado para minimizar custos automaticamente, gerenciando ciclos de vida de VMs. |
-| Desired State Configuration (DSC) | Manter consistência para VM's, plataforma nativa do Windows. |  
+
 
 
 
